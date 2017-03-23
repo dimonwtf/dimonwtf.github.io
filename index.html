@@ -143,6 +143,7 @@
         }
 
         $(document).ready(function() {
+            $.ajaxSetup({ cache: false })
             $.getJSON("/stats.json", function(data) {
                 $("#total_cities").text(data.stats_total.total_cities);
                 $("#attending").text(numberWithCommas(data.stats_total.attending));
