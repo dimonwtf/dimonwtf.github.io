@@ -1,10 +1,10 @@
 {
     "stats_total": {
         "total_cities": 102, 
-        "attending": 63812, 
+        "attending": 63755, 
         "invited": 46680, 
-        "total_cities_without_stats": 16, 
-        "maybe": 33657
+        "total_cities_without_stats": 18, 
+        "maybe": 33555
     }, 
     "stats_by_city": {
         "\u0418\u0432\u0430\u043d\u043e\u0432\u043e": {
@@ -40,9 +40,9 @@
             ], 
             "counters": {
                 "facebook.com/events/1480576838661189/": {
-                    "attending": 44, 
+                    "attending": 0, 
                     "invited": 0, 
-                    "maybe": 85
+                    "maybe": 0
                 }
             }
         }, 
@@ -1054,9 +1054,9 @@
             ], 
             "counters": {
                 "www.facebook.com/events/753247958169730/": {
-                    "attending": 13, 
+                    "attending": 0, 
                     "invited": 0, 
-                    "maybe": 17
+                    "maybe": 0
                 }
             }
         }, 
@@ -1336,6 +1336,10 @@
     }, 
     "cities_without_stats": [
         {
+            "city_name": "\u041b\u043e\u043d\u0434\u043e\u043d", 
+            "url": "facebook.com/events/1480576838661189/"
+        }, 
+        {
             "city_name": "\u0410\u0440\u043c\u0430\u0432\u0438\u0440", 
             "url": "vk.com/club8869990"
         }, 
@@ -1380,6 +1384,10 @@
             "url": "vk.com/dimon_ryaz"
         }, 
         {
+            "city_name": "\u0412\u043e\u043b\u0436\u0441\u043a\u0438\u0439", 
+            "url": "www.facebook.com/events/753247958169730/"
+        }, 
+        {
             "city_name": "\u041c\u0443\u0440\u043c\u0430\u043d\u0441\u043a", 
             "url": "vk.com/club142616896"
         }, 
@@ -1400,5 +1408,5 @@
             "url": "vk.com/navalny_kms"
         }
     ], 
-    "updated_time": "2017-03-23T08:09:01.907579"
+    "updated_time": "2017-03-23T08:24:15.453810"
 }
