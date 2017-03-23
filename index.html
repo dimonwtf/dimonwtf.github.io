@@ -149,6 +149,7 @@
 
 
     <script type="text/javascript">
+
         function numberWithCommas(x) {
             return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
         }
@@ -186,7 +187,8 @@
                     var c = cities[city_name],
                         attending = 0,
                         maybe = 0,
-                        invited = 0;
+                        invited = 0,
+                        links = "";
 
                     for (cnt in c.counters) {
                         var counter = c.counters[cnt]
@@ -195,8 +197,19 @@
                         invited += counter.invited
                     }
 
+
+                    for (l in c.links) {
+                        link = c.links[l]
+                        if (link.indexOf("vk.com") != -1) {
+                            links += nano("<a target='_blank' href='https://{url}'><img src='/img/vk.png' width='16px'/></a>", {url: link});
+                        } else if (link.indexOf("facebook.com") != -1) {
+                            links += nano("<a target='_blank' href='https://{url}'><img src='/img/fb.png' width='16px'/></a>", {url: link});
+                        }
+                    }
+
                     $("#cities > table > tbody").prepend(nano(temp, {
                         url: c.links[0],
+                        links: links,
                         city_name: c.city_name,
                         attending: numberWithCommas(attending),
                         maybe: numberWithCommas(maybe),
@@ -217,7 +230,7 @@
 
     <script type="text/x-template" id="city_template">
         <tr>
-            <td><a href="https://{url}" target="_blank">{city_name}</a></td>
+            <td><a href='https://{url}' target='_blank'>{city_name}</a> <span>{links}</span></td>
             <td>{attending}</td>
             <td>{maybe}</td>
             <td>{invited}</td>
