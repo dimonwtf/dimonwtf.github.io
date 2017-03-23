@@ -2,7 +2,7 @@
     "stats_total": {
         "total_cities": 102, 
         "attending": 63737, 
-        "invited": 46674, 
+        "invited": 46673, 
         "total_cities_without_stats": 18, 
         "maybe": 33545
     }, 
@@ -366,7 +366,7 @@
             "counters": {
                 "vk.com/event142585403": {
                     "attending": 251, 
-                    "invited": 96, 
+                    "invited": 95, 
                     "maybe": 143
                 }
             }
@@ -1408,5 +1408,5 @@
             "url": "vk.com/navalny_kms"
         }
     ], 
-    "updated_time": "2017-03-23T08:03:20.567355"
+    "updated_time": "2017-03-23T08:04:21.126189"
 }
