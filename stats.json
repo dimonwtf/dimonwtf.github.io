@@ -1,10 +1,10 @@
 {
     "stats_total": {
         "total_cities": 102, 
-        "attending": 56724, 
-        "invited": 46169, 
-        "total_cities_without_stats": 59, 
-        "maybe": 30641
+        "attending": 49273, 
+        "invited": 26471, 
+        "total_cities_without_stats": 72, 
+        "maybe": 25663
     }, 
     "stats_by_city": {
         "\u0418\u0432\u0430\u043d\u043e\u0432\u043e": {
@@ -93,7 +93,7 @@
             "counters": {
                 "vk.com/dimon_rnd": {
                     "attending": 2000, 
-                    "invited": 777, 
+                    "invited": 776, 
                     "maybe": 1000
                 }
             }
@@ -118,7 +118,7 @@
             ], 
             "counters": {
                 "vk.com/nedimonorel": {
-                    "attending": 471, 
+                    "attending": 478, 
                     "invited": 224, 
                     "maybe": 301
                 }
@@ -176,7 +176,7 @@
                     "maybe": 0
                 }, 
                 "vk.com/dimon_psk": {
-                    "attending": 261, 
+                    "attending": 262, 
                     "invited": 118, 
                     "maybe": 184
                 }
@@ -202,9 +202,9 @@
             ], 
             "counters": {
                 "vk.com/event142618238": {
-                    "attending": 478, 
-                    "invited": 124, 
-                    "maybe": 294
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
                 }
             }
         }, 
@@ -216,7 +216,7 @@
             "counters": {
                 "vk.com/dimon_samara": {
                     "attending": 2100, 
-                    "invited": 968, 
+                    "invited": 967, 
                     "maybe": 1100
                 }
             }
@@ -228,8 +228,8 @@
             ], 
             "counters": {
                 "vk.com/event143218522": {
-                    "attending": 73, 
-                    "invited": 38, 
+                    "attending": 74, 
+                    "invited": 37, 
                     "maybe": 23
                 }
             }
@@ -241,9 +241,9 @@
             ], 
             "counters": {
                 "vk.com/club142611852": {
-                    "attending": 710, 
-                    "invited": 234, 
-                    "maybe": 360
+                    "attending": 711, 
+                    "invited": 235, 
+                    "maybe": 361
                 }
             }
         }, 
@@ -261,9 +261,9 @@
             ], 
             "counters": {
                 "vk.com/event142646052": {
-                    "attending": 725, 
-                    "invited": 460, 
-                    "maybe": 411
+                    "attending": 726, 
+                    "invited": 458, 
+                    "maybe": 409
                 }
             }
         }, 
@@ -326,9 +326,9 @@
             ], 
             "counters": {
                 "vk.com/dimon_prg": {
-                    "attending": 180, 
-                    "invited": 882, 
-                    "maybe": 119
+                    "attending": 179, 
+                    "invited": 880, 
+                    "maybe": 121
                 }
             }
         }, 
@@ -340,7 +340,7 @@
             "counters": {
                 "vk.com/dimon_saintp": {
                     "attending": 11000, 
-                    "invited": 4500, 
+                    "invited": 4400, 
                     "maybe": 5300
                 }
             }
@@ -365,9 +365,9 @@
             ], 
             "counters": {
                 "vk.com/event142585403": {
-                    "attending": 366, 
-                    "invited": 119, 
-                    "maybe": 211
+                    "attending": 364, 
+                    "invited": 117, 
+                    "maybe": 212
                 }
             }
         }, 
@@ -391,9 +391,9 @@
             ], 
             "counters": {
                 "vk.com/dimon_neft": {
-                    "attending": 105, 
-                    "invited": 27, 
-                    "maybe": 52
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
                 }
             }
         }, 
@@ -415,7 +415,13 @@
             "links": [
                 "vk.com/navalny_ishim"
             ], 
-            "counters": {}
+            "counters": {
+                "vk.com/navalny_ishim": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
         }, 
         "\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0431\u0443\u0440\u0433": {
             "city_name": "\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0431\u0443\u0440\u0433", 
@@ -450,9 +456,9 @@
             ], 
             "counters": {
                 "vk.com/dimon_tver": {
-                    "attending": 1200, 
-                    "invited": 16000, 
-                    "maybe": 1200
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
                 }
             }
         }, 
@@ -490,7 +496,7 @@
             "counters": {
                 "vk.com/dimon_srtv": {
                     "attending": 1600, 
-                    "invited": 567, 
+                    "invited": 563, 
                     "maybe": 855
                 }
             }
@@ -502,9 +508,9 @@
             ], 
             "counters": {
                 "vk.com/dimon_mkala": {
-                    "attending": 311, 
-                    "invited": 51, 
-                    "maybe": 204
+                    "attending": 315, 
+                    "invited": 50, 
+                    "maybe": 207
                 }
             }
         }, 
@@ -529,8 +535,8 @@
             "counters": {
                 "vk.com/dimon_krd": {
                     "attending": 1800, 
-                    "invited": 842, 
-                    "maybe": 1100
+                    "invited": 838, 
+                    "maybe": 1000
                 }
             }
         }, 
@@ -569,7 +575,7 @@
                 "vk.com/dimon_vlg": {
                     "attending": 1500, 
                     "invited": 2700, 
-                    "maybe": 938
+                    "maybe": 937
                 }
             }
         }, 
@@ -638,9 +644,9 @@
             ], 
             "counters": {
                 "vk.com/protivvorovuu": {
-                    "attending": 514, 
-                    "invited": 721, 
-                    "maybe": 344
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
                 }
             }
         }, 
@@ -677,7 +683,7 @@
             ], 
             "counters": {
                 "vk.com/navalny_yar_meeting": {
-                    "attending": 919, 
+                    "attending": 921, 
                     "invited": 349, 
                     "maybe": 564
                 }
@@ -703,9 +709,9 @@
             ], 
             "counters": {
                 "vk.com/club142607863": {
-                    "attending": 686, 
-                    "invited": 487, 
-                    "maybe": 345
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
                 }
             }
         }, 
@@ -716,9 +722,9 @@
             ], 
             "counters": {
                 "vk.com/event142611406": {
-                    "attending": 747, 
-                    "invited": 279, 
-                    "maybe": 497
+                    "attending": 754, 
+                    "invited": 277, 
+                    "maybe": 494
                 }
             }
         }, 
@@ -755,9 +761,9 @@
             ], 
             "counters": {
                 "vk.com/dimon_chuv": {
-                    "attending": 984, 
-                    "invited": 580, 
-                    "maybe": 712
+                    "attending": 981, 
+                    "invited": 576, 
+                    "maybe": 711
                 }
             }
         }, 
@@ -768,9 +774,9 @@
             ], 
             "counters": {
                 "vk.com/ulyanovsk26": {
-                    "attending": 557, 
-                    "invited": 216, 
-                    "maybe": 396
+                    "attending": 564, 
+                    "invited": 214, 
+                    "maybe": 394
                 }
             }
         }, 
@@ -781,9 +787,9 @@
             ], 
             "counters": {
                 "vk.com/dimon_ast": {
-                    "attending": 555, 
-                    "invited": 252, 
-                    "maybe": 288
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
                 }
             }
         }, 
@@ -794,7 +800,7 @@
             ], 
             "counters": {
                 "vk.com/dimon_nvsk": {
-                    "attending": 211, 
+                    "attending": 210, 
                     "invited": 82, 
                     "maybe": 89
                 }
@@ -820,9 +826,9 @@
             ], 
             "counters": {
                 "vk.com/dimon_bashkiria": {
-                    "attending": 1900, 
-                    "invited": 815, 
-                    "maybe": 1100
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
                 }
             }
         }, 
@@ -846,9 +852,9 @@
             ], 
             "counters": {
                 "vk.com/dimon_tagil": {
-                    "attending": 559, 
-                    "invited": 214, 
-                    "maybe": 363
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
                 }
             }
         }, 
@@ -859,7 +865,7 @@
             ], 
             "counters": {
                 "vk.com/dimon_gtn": {
-                    "attending": 67, 
+                    "attending": 69, 
                     "invited": 95, 
                     "maybe": 64
                 }
@@ -873,7 +879,7 @@
             "counters": {
                 "vk.com/club142793898": {
                     "attending": 121, 
-                    "invited": 77, 
+                    "invited": 76, 
                     "maybe": 81
                 }
             }
@@ -885,9 +891,9 @@
             ], 
             "counters": {
                 "vk.com/club142613767": {
-                    "attending": 740, 
-                    "invited": 463, 
-                    "maybe": 458
+                    "attending": 736, 
+                    "invited": 461, 
+                    "maybe": 461
                 }
             }
         }, 
@@ -898,9 +904,9 @@
             ], 
             "counters": {
                 "vk.com/dimon_sykt": {
-                    "attending": 501, 
+                    "attending": 499, 
                     "invited": 236, 
-                    "maybe": 340
+                    "maybe": 339
                 }
             }
         }, 
@@ -925,8 +931,8 @@
             "counters": {
                 "vk.com/navalny_cherepovec": {
                     "attending": 520, 
-                    "invited": 418, 
-                    "maybe": 325
+                    "invited": 411, 
+                    "maybe": 326
                 }
             }
         }, 
@@ -1015,9 +1021,9 @@
             ], 
             "counters": {
                 "vk.com/dimon_blagoveshchensk": {
-                    "attending": 362, 
-                    "invited": 126, 
-                    "maybe": 196
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
                 }
             }
         }, 
@@ -1041,9 +1047,9 @@
             ], 
             "counters": {
                 "vk.com/dimon_vld": {
-                    "attending": 647, 
-                    "invited": 541, 
-                    "maybe": 405
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
                 }
             }
         }, 
@@ -1054,9 +1060,9 @@
             ], 
             "counters": {
                 "www.facebook.com/events/753247958169730/": {
-                    "attending": 64, 
+                    "attending": 0, 
                     "invited": 0, 
-                    "maybe": 63
+                    "maybe": 0
                 }
             }
         }, 
@@ -1068,8 +1074,8 @@
             "counters": {
                 "vk.com/club142591947": {
                     "attending": 1300, 
-                    "invited": 674, 
-                    "maybe": 774
+                    "invited": 670, 
+                    "maybe": 773
                 }
             }
         }, 
@@ -1080,9 +1086,9 @@
             ], 
             "counters": {
                 "vk.com/club142599120": {
-                    "attending": 402, 
-                    "invited": 147, 
-                    "maybe": 230
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
                 }
             }
         }, 
@@ -1108,7 +1114,7 @@
             "counters": {
                 "vk.com/dimon_moscow": {
                     "attending": 8900, 
-                    "invited": 3100, 
+                    "invited": 3000, 
                     "maybe": 3300
                 }, 
                 "facebook.com/events/1860803440858828/": {
@@ -1203,7 +1209,7 @@
             ], 
             "counters": {
                 "vk.com/nedimonsmolensk": {
-                    "attending": 627, 
+                    "attending": 629, 
                     "invited": 386, 
                     "maybe": 438
                 }
@@ -1217,7 +1223,7 @@
             "counters": {
                 "vk.com/dimon_kzn": {
                     "attending": 2200, 
-                    "invited": 764, 
+                    "invited": 761, 
                     "maybe": 1200
                 }
             }
@@ -1229,9 +1235,9 @@
             ], 
             "counters": {
                 "vk.com/event142692882": {
-                    "attending": 461, 
-                    "invited": 216, 
-                    "maybe": 317
+                    "attending": 460, 
+                    "invited": 214, 
+                    "maybe": 319
                 }
             }
         }, 
@@ -1390,6 +1396,10 @@
             "url": "vk.com/dimon_tmn"
         }, 
         {
+            "city_name": "\u041d\u0430\u0431\u0435\u0440\u0435\u0436\u043d\u044b\u0435 \u0427\u0435\u043b\u043d\u044b", 
+            "url": "vk.com/event142618238"
+        }, 
+        {
             "city_name": "\u042f\u043a\u0443\u0442\u0441\u043a", 
             "url": "vk.com/event142646117"
         }, 
@@ -1414,8 +1424,16 @@
             "url": "vk.com/event142708716"
         }, 
         {
+            "city_name": "\u041d\u0435\u0444\u0442\u0435\u043a\u0430\u043c\u0441\u043a", 
+            "url": "vk.com/dimon_neft"
+        }, 
+        {
             "city_name": "\u0414\u0437\u0435\u0440\u0436\u0438\u043d\u0441\u043a", 
             "url": "vk.com/miting26dzr"
+        }, 
+        {
+            "city_name": "\u0418\u0448\u0438\u043c", 
+            "url": "vk.com/navalny_ishim"
         }, 
         {
             "city_name": "\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0431\u0443\u0440\u0433", 
@@ -1424,6 +1442,10 @@
         {
             "city_name": "\u041a\u0430\u043b\u0438\u043d\u0438\u043d\u0433\u0440\u0430\u0434", 
             "url": "vk.com/navalny_kld"
+        }, 
+        {
+            "city_name": "\u0422\u0432\u0435\u0440\u044c", 
+            "url": "vk.com/dimon_tver"
         }, 
         {
             "city_name": "\u0427\u0435\u043b\u044f\u0431\u0438\u043d\u0441\u043a", 
@@ -1466,6 +1488,10 @@
             "url": "vk.com/event142588458"
         }, 
         {
+            "city_name": "\u0423\u043b\u0430\u043d-\u0423\u0434\u044d", 
+            "url": "vk.com/protivvorovuu"
+        }, 
+        {
             "city_name": "\u041a\u043e\u0440\u043e\u043b\u0451\u0432", 
             "url": "vk.com/club142653979"
         }, 
@@ -1478,6 +1504,10 @@
             "url": "vk.com/club142649783"
         }, 
         {
+            "city_name": "\u0411\u0435\u043b\u0433\u043e\u0440\u043e\u0434", 
+            "url": "vk.com/club142607863"
+        }, 
+        {
             "city_name": "\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
             "url": "vk.com/anti_dimon"
         }, 
@@ -1486,12 +1516,24 @@
             "url": "vk.com/teamnavalny_penza"
         }, 
         {
+            "city_name": "\u0410\u0441\u0442\u0440\u0430\u0445\u0430\u043d\u044c", 
+            "url": "vk.com/dimon_ast"
+        }, 
+        {
             "city_name": "\u0418\u0441\u043a\u0438\u0442\u0438\u043c", 
             "url": "vk.com/dimon_iskitim"
         }, 
         {
+            "city_name": "\u0423\u0444\u0430", 
+            "url": "vk.com/dimon_bashkiria"
+        }, 
+        {
             "city_name": "\u0421\u0442\u0430\u0432\u0440\u043e\u043f\u043e\u043b\u044c", 
             "url": "vk.com/korrupcianet26"
+        }, 
+        {
+            "city_name": "\u041d\u0438\u0436\u043d\u0438\u0439 \u0422\u0430\u0433\u0438\u043b", 
+            "url": "vk.com/dimon_tagil"
         }, 
         {
             "city_name": "\u0411\u0438\u0439\u0441\u043a", 
@@ -1518,8 +1560,24 @@
             "url": "vk.com/dimon_ryaz"
         }, 
         {
+            "city_name": "\u0411\u043b\u0430\u0433\u043e\u0432\u0435\u0449\u0435\u043d\u0441\u043a", 
+            "url": "vk.com/dimon_blagoveshchensk"
+        }, 
+        {
             "city_name": "\u041a\u0443\u0437\u043d\u0435\u0446\u043a", 
             "url": "vk.com/event142688374"
+        }, 
+        {
+            "city_name": "\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440", 
+            "url": "vk.com/dimon_vld"
+        }, 
+        {
+            "city_name": "\u0412\u043e\u043b\u0436\u0441\u043a\u0438\u0439", 
+            "url": "www.facebook.com/events/753247958169730/"
+        }, 
+        {
+            "city_name": "\u041a\u0430\u043b\u0443\u0433\u0430", 
+            "url": "vk.com/club142599120"
         }, 
         {
             "city_name": "\u041a\u0438\u0440\u043e\u0432", 
@@ -1578,5 +1636,5 @@
             "url": "vk.com/navalny_kms"
         }
     ], 
-    "updated_time": "2017-03-26T12:30:03.580278"
+    "updated_time": "2017-03-26T13:02:15.829456"
 }
