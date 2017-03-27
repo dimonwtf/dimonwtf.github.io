@@ -2,7 +2,7 @@
     "stats_total": {
         "total_cities": 102, 
         "attending": 1620, 
-        "invited": 687, 
+        "invited": 681, 
         "total_cities_without_stats": 101, 
         "maybe": 925
     }, 
@@ -15,7 +15,7 @@
             "counters": {
                 "vk.com/dimon_iv": {
                     "attending": 783, 
-                    "invited": 408, 
+                    "invited": 405, 
                     "maybe": 498
                 }
             }
@@ -275,7 +275,7 @@
             "counters": {
                 "vk.com/event142646117": {
                     "attending": 273, 
-                    "invited": 62, 
+                    "invited": 61, 
                     "maybe": 139
                 }
             }
@@ -788,7 +788,7 @@
             "counters": {
                 "vk.com/dimon_ast": {
                     "attending": 564, 
-                    "invited": 217, 
+                    "invited": 215, 
                     "maybe": 288
                 }
             }
@@ -1752,5 +1752,5 @@
             "url": "vk.com/navalny_kms"
         }
     ], 
-    "updated_time": "2017-03-27T05:30:03.686476"
+    "updated_time": "2017-03-27T06:02:05.511594"
 }
