@@ -2,9 +2,9 @@
     "stats_total": {
         "total_cities": 102, 
         "attending": 1623, 
-        "invited": 693, 
+        "invited": 689, 
         "total_cities_without_stats": 101, 
-        "maybe": 925
+        "maybe": 927
     }, 
     "stats_by_city": {
         "\u0418\u0432\u0430\u043d\u043e\u0432\u043e": {
@@ -15,7 +15,7 @@
             "counters": {
                 "vk.com/dimon_iv": {
                     "attending": 786, 
-                    "invited": 411, 
+                    "invited": 409, 
                     "maybe": 498
                 }
             }
@@ -274,9 +274,9 @@
             ], 
             "counters": {
                 "vk.com/event142646117": {
-                    "attending": 272, 
+                    "attending": 273, 
                     "invited": 63, 
-                    "maybe": 139
+                    "maybe": 140
                 }
             }
         }, 
@@ -787,9 +787,9 @@
             ], 
             "counters": {
                 "vk.com/dimon_ast": {
-                    "attending": 565, 
-                    "invited": 219, 
-                    "maybe": 288
+                    "attending": 564, 
+                    "invited": 217, 
+                    "maybe": 289
                 }
             }
         }, 
@@ -1752,5 +1752,5 @@
             "url": "vk.com/navalny_kms"
         }
     ], 
-    "updated_time": "2017-03-27T03:30:03.331784"
+    "updated_time": "2017-03-27T04:02:04.005188"
 }
