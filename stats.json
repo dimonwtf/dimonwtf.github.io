@@ -1,10 +1,10 @@
 {
     "stats_total": {
         "total_cities": 102, 
-        "attending": 4649, 
-        "invited": 11270, 
-        "total_cities_without_stats": 97, 
-        "maybe": 3277
+        "attending": 4646, 
+        "invited": 11267, 
+        "total_cities_without_stats": 98, 
+        "maybe": 3275
     }, 
     "stats_by_city": {
         "\u0418\u0432\u0430\u043d\u043e\u0432\u043e": {
@@ -14,8 +14,8 @@
             ], 
             "counters": {
                 "vk.com/dimon_iv": {
-                    "attending": 792, 
-                    "invited": 365, 
+                    "attending": 790, 
+                    "invited": 364, 
                     "maybe": 494
                 }
             }
@@ -586,8 +586,8 @@
             ], 
             "counters": {
                 "vk.com/event142596129": {
-                    "attending": 704, 
-                    "invited": 187, 
+                    "attending": 703, 
+                    "invited": 185, 
                     "maybe": 415
                 }
             }
@@ -685,7 +685,7 @@
                 "vk.com/navalny_yar_meeting": {
                     "attending": 943, 
                     "invited": 222, 
-                    "maybe": 554
+                    "maybe": 553
                 }
             }
         }, 
@@ -787,7 +787,7 @@
             ], 
             "counters": {
                 "vk.com/dimon_ast": {
-                    "attending": 567, 
+                    "attending": 566, 
                     "invited": 201, 
                     "maybe": 288
                 }
@@ -930,9 +930,9 @@
             ], 
             "counters": {
                 "vk.com/navalny_cherepovec": {
-                    "attending": 543, 
+                    "attending": 544, 
                     "invited": 295, 
-                    "maybe": 326
+                    "maybe": 325
                 }
             }
         }, 
@@ -1207,7 +1207,13 @@
             "links": [
                 "vk.com/nedimonsmolensk"
             ], 
-            "counters": {}
+            "counters": {
+                "vk.com/nedimonsmolensk": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
         }, 
         "\u041a\u0430\u0437\u0430\u043d\u044c": {
             "city_name": "\u041a\u0430\u0437\u0430\u043d\u044c", 
@@ -1690,6 +1696,10 @@
             "url": "vk.com/netkopcii"
         }, 
         {
+            "city_name": "\u0421\u043c\u043e\u043b\u0435\u043d\u0441\u043a", 
+            "url": "vk.com/nedimonsmolensk"
+        }, 
+        {
             "city_name": "\u041a\u0430\u0437\u0430\u043d\u044c", 
             "url": "vk.com/dimon_kzn"
         }, 
@@ -1730,5 +1740,5 @@
             "url": "vk.com/navalny_kms"
         }
     ], 
-    "updated_time": "2017-03-28T08:30:03.631116"
+    "updated_time": "2017-03-28T09:02:04.131961"
 }
