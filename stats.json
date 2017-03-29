@@ -1,10 +1,10 @@
 {
     "stats_total": {
         "total_cities": 102, 
-        "attending": 10370, 
-        "invited": 12630, 
+        "attending": 10368, 
+        "invited": 12628, 
         "total_cities_without_stats": 94, 
-        "maybe": 6070
+        "maybe": 6069
     }, 
     "stats_by_city": {
         "\u0418\u0432\u0430\u043d\u043e\u0432\u043e": {
@@ -14,9 +14,9 @@
             ], 
             "counters": {
                 "vk.com/dimon_iv": {
-                    "attending": 785, 
-                    "invited": 346, 
-                    "maybe": 490
+                    "attending": 784, 
+                    "invited": 345, 
+                    "maybe": 489
                 }
             }
         }, 
@@ -586,7 +586,7 @@
             ], 
             "counters": {
                 "vk.com/event142596129": {
-                    "attending": 691, 
+                    "attending": 690, 
                     "invited": 179, 
                     "maybe": 410
                 }
@@ -683,9 +683,9 @@
             ], 
             "counters": {
                 "vk.com/navalny_yar_meeting": {
-                    "attending": 946, 
+                    "attending": 947, 
                     "invited": 210, 
-                    "maybe": 549
+                    "maybe": 548
                 }
             }
         }, 
@@ -776,7 +776,7 @@
                 "vk.com/ulyanovsk26": {
                     "attending": 556, 
                     "invited": 104, 
-                    "maybe": 365
+                    "maybe": 366
                 }
             }
         }, 
@@ -787,8 +787,8 @@
             ], 
             "counters": {
                 "vk.com/dimon_ast": {
-                    "attending": 566, 
-                    "invited": 194, 
+                    "attending": 565, 
+                    "invited": 193, 
                     "maybe": 283
                 }
             }
@@ -1724,5 +1724,5 @@
             "url": "vk.com/navalny_kms"
         }
     ], 
-    "updated_time": "2017-03-29T20:30:03.264044"
+    "updated_time": "2017-03-29T21:02:13.169972"
 }
