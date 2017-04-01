@@ -1,8 +1,8 @@
 {
     "stats_total": {
         "total_cities": 102, 
-        "attending": 15611, 
-        "invited": 13981, 
+        "attending": 15610, 
+        "invited": 13972, 
         "total_cities_without_stats": 90, 
         "maybe": 8017
     }, 
@@ -106,7 +106,7 @@
             "counters": {
                 "vk.com/dimon_vdk": {
                     "attending": 1200, 
-                    "invited": 448, 
+                    "invited": 447, 
                     "maybe": 652
                 }
             }
@@ -574,7 +574,7 @@
             "counters": {
                 "vk.com/dimon_vlg": {
                     "attending": 1400, 
-                    "invited": 965, 
+                    "invited": 962, 
                     "maybe": 885
                 }
             }
@@ -586,9 +586,9 @@
             ], 
             "counters": {
                 "vk.com/event142596129": {
-                    "attending": 687, 
-                    "invited": 187, 
-                    "maybe": 418
+                    "attending": 686, 
+                    "invited": 186, 
+                    "maybe": 419
                 }
             }
         }, 
@@ -613,7 +613,7 @@
             "counters": {
                 "vk.com/dimon_nsk": {
                     "attending": 3400, 
-                    "invited": 824, 
+                    "invited": 820, 
                     "maybe": 1500
                 }
             }
@@ -787,9 +787,9 @@
             ], 
             "counters": {
                 "vk.com/dimon_ast": {
-                    "attending": 562, 
+                    "attending": 561, 
                     "invited": 185, 
-                    "maybe": 286
+                    "maybe": 285
                 }
             }
         }, 
@@ -930,7 +930,7 @@
             ], 
             "counters": {
                 "vk.com/navalny_cherepovec": {
-                    "attending": 537, 
+                    "attending": 538, 
                     "invited": 268, 
                     "maybe": 323
                 }
@@ -1708,5 +1708,5 @@
             "url": "vk.com/navalny_kms"
         }
     ], 
-    "updated_time": "2017-04-01T15:30:03.548607"
+    "updated_time": "2017-04-01T16:02:02.830517"
 }
