@@ -2,9 +2,9 @@
     "stats_total": {
         "total_cities": 102, 
         "attending": 4986, 
-        "invited": 11096, 
+        "invited": 11095, 
         "total_cities_without_stats": 97, 
-        "maybe": 3388
+        "maybe": 3390
     }, 
     "stats_by_city": {
         "\u0418\u0432\u0430\u043d\u043e\u0432\u043e": {
@@ -683,9 +683,9 @@
             ], 
             "counters": {
                 "vk.com/navalny_yar_meeting": {
-                    "attending": 953, 
+                    "attending": 955, 
                     "invited": 203, 
-                    "maybe": 549
+                    "maybe": 550
                 }
             }
         }, 
@@ -774,7 +774,7 @@
             ], 
             "counters": {
                 "vk.com/ulyanovsk26": {
-                    "attending": 577, 
+                    "attending": 576, 
                     "invited": 113, 
                     "maybe": 359
                 }
@@ -930,7 +930,7 @@
             ], 
             "counters": {
                 "vk.com/navalny_cherepovec": {
-                    "attending": 531, 
+                    "attending": 530, 
                     "invited": 262, 
                     "maybe": 322
                 }
@@ -1197,8 +1197,8 @@
             "counters": {
                 "vk.com/netkopcii": {
                     "attending": 356, 
-                    "invited": 53, 
-                    "maybe": 165
+                    "invited": 52, 
+                    "maybe": 166
                 }
             }
         }, 
@@ -1736,5 +1736,5 @@
             "url": "vk.com/navalny_kms"
         }
     ], 
-    "updated_time": "2017-04-02T17:30:03.688087"
+    "updated_time": "2017-04-02T18:02:01.291024"
 }
