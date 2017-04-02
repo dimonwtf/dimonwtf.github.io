@@ -1,8 +1,8 @@
 {
     "stats_total": {
         "total_cities": 102, 
-        "attending": 15604, 
-        "invited": 13946, 
+        "attending": 15602, 
+        "invited": 13941, 
         "total_cities_without_stats": 90, 
         "maybe": 8026
     }, 
@@ -106,7 +106,7 @@
             "counters": {
                 "vk.com/dimon_vdk": {
                     "attending": 1200, 
-                    "invited": 443, 
+                    "invited": 442, 
                     "maybe": 651
                 }
             }
@@ -379,7 +379,7 @@
             "counters": {
                 "vk.com/event142708716": {
                     "attending": 691, 
-                    "invited": 149, 
+                    "invited": 148, 
                     "maybe": 307
                 }
             }
@@ -587,7 +587,7 @@
             "counters": {
                 "vk.com/event142596129": {
                     "attending": 683, 
-                    "invited": 184, 
+                    "invited": 183, 
                     "maybe": 420
                 }
             }
@@ -613,7 +613,7 @@
             "counters": {
                 "vk.com/dimon_nsk": {
                     "attending": 3400, 
-                    "invited": 816, 
+                    "invited": 814, 
                     "maybe": 1500
                 }
             }
@@ -930,7 +930,7 @@
             ], 
             "counters": {
                 "vk.com/navalny_cherepovec": {
-                    "attending": 536, 
+                    "attending": 535, 
                     "invited": 264, 
                     "maybe": 323
                 }
@@ -1196,7 +1196,7 @@
             ], 
             "counters": {
                 "vk.com/netkopcii": {
-                    "attending": 354, 
+                    "attending": 353, 
                     "invited": 42, 
                     "maybe": 165
                 }
@@ -1708,5 +1708,5 @@
             "url": "vk.com/navalny_kms"
         }
     ], 
-    "updated_time": "2017-04-02T03:30:02.950496"
+    "updated_time": "2017-04-02T04:02:04.299858"
 }
