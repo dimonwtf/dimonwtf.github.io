@@ -1,12 +1,1736 @@
 {
     "stats_total": {
-        "total_cities": 0, 
-        "attending": 0, 
-        "invited": 0, 
-        "total_cities_without_stats": 0, 
-        "maybe": 0
+        "total_cities": 102, 
+        "attending": 5659, 
+        "invited": 11147, 
+        "total_cities_without_stats": 96, 
+        "maybe": 3801
     }, 
-    "stats_by_city": {}, 
-    "cities_without_stats": [], 
-    "updated_time": "2017-04-03T05:30:01.891211"
+    "stats_by_city": {
+        "\u0418\u0432\u0430\u043d\u043e\u0432\u043e": {
+            "city_name": "\u0418\u0432\u0430\u043d\u043e\u0432\u043e", 
+            "links": [
+                "vk.com/dimon_iv"
+            ], 
+            "counters": {
+                "vk.com/dimon_iv": {
+                    "attending": 777, 
+                    "invited": 325, 
+                    "maybe": 483
+                }
+            }
+        }, 
+        "\u041a\u0430\u0447\u043a\u0430\u043d\u0430\u0440": {
+            "city_name": "\u041a\u0430\u0447\u043a\u0430\u043d\u0430\u0440", 
+            "links": [
+                "vk.com/dimon_kachkanar"
+            ], 
+            "counters": {
+                "vk.com/dimon_kachkanar": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u041b\u043e\u043d\u0434\u043e\u043d": {
+            "city_name": "\u041b\u043e\u043d\u0434\u043e\u043d", 
+            "links": [
+                "facebook.com/events/1480576838661189/"
+            ], 
+            "counters": {
+                "facebook.com/events/1480576838661189/": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u0410\u0440\u043c\u0430\u0432\u0438\u0440": {
+            "city_name": "\u0410\u0440\u043c\u0430\u0432\u0438\u0440", 
+            "links": [
+                "vk.com/club8869990"
+            ], 
+            "counters": {
+                "vk.com/club8869990": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u041a\u0435\u043c\u0435\u0440\u043e\u0432\u043e": {
+            "city_name": "\u041a\u0435\u043c\u0435\u0440\u043e\u0432\u043e", 
+            "links": [
+                "vk.com/event142729484"
+            ], 
+            "counters": {
+                "vk.com/event142729484": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u0427\u0438\u0442\u0430": {
+            "city_name": "\u0427\u0438\u0442\u0430", 
+            "links": [
+                "vk.com/event141385841"
+            ], 
+            "counters": {
+                "vk.com/event141385841": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u0420\u043e\u0441\u0442\u043e\u0432-\u043d\u0430-\u0414\u043e\u043d\u0443": {
+            "city_name": "\u0420\u043e\u0441\u0442\u043e\u0432-\u043d\u0430-\u0414\u043e\u043d\u0443", 
+            "links": [
+                "vk.com/dimon_rnd"
+            ], 
+            "counters": {
+                "vk.com/dimon_rnd": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u0412\u043b\u0430\u0434\u0438\u0432\u043e\u0441\u0442\u043e\u043a": {
+            "city_name": "\u0412\u043b\u0430\u0434\u0438\u0432\u043e\u0441\u0442\u043e\u043a", 
+            "links": [
+                "vk.com/dimon_vdk"
+            ], 
+            "counters": {
+                "vk.com/dimon_vdk": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u041e\u0440\u0451\u043b": {
+            "city_name": "\u041e\u0440\u0451\u043b", 
+            "links": [
+                "vk.com/nedimonorel"
+            ], 
+            "counters": {
+                "vk.com/nedimonorel": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u0423\u0445\u0442\u0430": {
+            "city_name": "\u0423\u0445\u0442\u0430", 
+            "links": [
+                "vk.com/dimon_uhta"
+            ], 
+            "counters": {
+                "vk.com/dimon_uhta": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u041e\u043c\u0441\u043a": {
+            "city_name": "\u041e\u043c\u0441\u043a", 
+            "links": [
+                "vk.com/omsk_trebuet_otvet"
+            ], 
+            "counters": {
+                "vk.com/omsk_trebuet_otvet": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u0418\u0436\u0435\u0432\u0441\u043a": {
+            "city_name": "\u0418\u0436\u0435\u0432\u0441\u043a", 
+            "links": [
+                "vk.com/event142595552"
+            ], 
+            "counters": {
+                "vk.com/event142595552": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u041f\u0441\u043a\u043e\u0432": {
+            "city_name": "\u041f\u0441\u043a\u043e\u0432", 
+            "links": [
+                "vk.com/dimon_psk", 
+                "www.facebook.com/events/1234328606681342/"
+            ], 
+            "counters": {
+                "www.facebook.com/events/1234328606681342/": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }, 
+                "vk.com/dimon_psk": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u0422\u044e\u043c\u0435\u043d\u044c": {
+            "city_name": "\u0422\u044e\u043c\u0435\u043d\u044c", 
+            "links": [
+                "vk.com/dimon_tmn"
+            ], 
+            "counters": {
+                "vk.com/dimon_tmn": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u041d\u0430\u0431\u0435\u0440\u0435\u0436\u043d\u044b\u0435 \u0427\u0435\u043b\u043d\u044b": {
+            "city_name": "\u041d\u0430\u0431\u0435\u0440\u0435\u0436\u043d\u044b\u0435 \u0427\u0435\u043b\u043d\u044b", 
+            "links": [
+                "vk.com/event142618238"
+            ], 
+            "counters": {
+                "vk.com/event142618238": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u0421\u0430\u043c\u0430\u0440\u0430": {
+            "city_name": "\u0421\u0430\u043c\u0430\u0440\u0430", 
+            "links": [
+                "vk.com/dimon_samara"
+            ], 
+            "counters": {
+                "vk.com/dimon_samara": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u0421\u0435\u0440\u0433\u0438\u0435\u0432 \u041f\u043e\u0441\u0430\u0434": {
+            "city_name": "\u0421\u0435\u0440\u0433\u0438\u0435\u0432 \u041f\u043e\u0441\u0430\u0434", 
+            "links": [
+                "vk.com/event143218522"
+            ], 
+            "counters": {
+                "vk.com/event143218522": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u0411\u0440\u044f\u043d\u0441\u043a": {
+            "city_name": "\u0411\u0440\u044f\u043d\u0441\u043a", 
+            "links": [
+                "vk.com/club142611852"
+            ], 
+            "counters": {
+                "vk.com/club142611852": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u0421\u043e\u0447\u0438": {
+            "city_name": "\u0421\u043e\u0447\u0438", 
+            "links": [
+                "vk.com/demon_sochi"
+            ], 
+            "counters": {}
+        }, 
+        "\u041f\u0435\u0442\u0440\u043e\u0437\u0430\u0432\u043e\u0434\u0441\u043a": {
+            "city_name": "\u041f\u0435\u0442\u0440\u043e\u0437\u0430\u0432\u043e\u0434\u0441\u043a", 
+            "links": [
+                "vk.com/event142646052"
+            ], 
+            "counters": {
+                "vk.com/event142646052": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u042f\u043a\u0443\u0442\u0441\u043a": {
+            "city_name": "\u042f\u043a\u0443\u0442\u0441\u043a", 
+            "links": [
+                "vk.com/event142646117"
+            ], 
+            "counters": {
+                "vk.com/event142646117": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u0412\u043e\u0442\u043a\u0438\u043d\u0441\u043a": {
+            "city_name": "\u0412\u043e\u0442\u043a\u0438\u043d\u0441\u043a", 
+            "links": [
+                "vk.com/event142676348"
+            ], 
+            "counters": {
+                "vk.com/event142676348": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u0421\u0430\u0440\u0430\u043f\u0443\u043b": {
+            "city_name": "\u0421\u0430\u0440\u0430\u043f\u0443\u043b", 
+            "links": [
+                "vk.com/event142653568"
+            ], 
+            "counters": {
+                "vk.com/event142653568": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u0422\u043e\u043c\u0441\u043a": {
+            "city_name": "\u0422\u043e\u043c\u0441\u043a", 
+            "links": [
+                "vk.com/dimon_tomsk"
+            ], 
+            "counters": {
+                "vk.com/dimon_tomsk": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u041f\u0440\u0430\u0433\u0430": {
+            "city_name": "\u041f\u0440\u0430\u0433\u0430", 
+            "links": [
+                "vk.com/dimon_prg"
+            ], 
+            "counters": {
+                "vk.com/dimon_prg": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433": {
+            "city_name": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433", 
+            "links": [
+                "vk.com/dimon_saintp"
+            ], 
+            "counters": {
+                "vk.com/dimon_saintp": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u041b\u0438\u043f\u0435\u0446\u043a": {
+            "city_name": "\u041b\u0438\u043f\u0435\u0446\u043a", 
+            "links": [
+                "vk.com/dimon_lip"
+            ], 
+            "counters": {
+                "vk.com/dimon_lip": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u041a\u043e\u0441\u0442\u0440\u043e\u043c\u0430": {
+            "city_name": "\u041a\u043e\u0441\u0442\u0440\u043e\u043c\u0430", 
+            "links": [
+                "vk.com/event142585403"
+            ], 
+            "counters": {
+                "vk.com/event142585403": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u041d\u043e\u0432\u043e\u043a\u0443\u0437\u043d\u0435\u0446\u043a": {
+            "city_name": "\u041d\u043e\u0432\u043e\u043a\u0443\u0437\u043d\u0435\u0446\u043a", 
+            "links": [
+                "vk.com/event142708716"
+            ], 
+            "counters": {
+                "vk.com/event142708716": {
+                    "attending": 692, 
+                    "invited": 137, 
+                    "maybe": 308
+                }
+            }
+        }, 
+        "\u041d\u0435\u0444\u0442\u0435\u043a\u0430\u043c\u0441\u043a": {
+            "city_name": "\u041d\u0435\u0444\u0442\u0435\u043a\u0430\u043c\u0441\u043a", 
+            "links": [
+                "vk.com/dimon_neft"
+            ], 
+            "counters": {
+                "vk.com/dimon_neft": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u0414\u0437\u0435\u0440\u0436\u0438\u043d\u0441\u043a": {
+            "city_name": "\u0414\u0437\u0435\u0440\u0436\u0438\u043d\u0441\u043a", 
+            "links": [
+                "vk.com/miting26dzr"
+            ], 
+            "counters": {
+                "vk.com/miting26dzr": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u0418\u0448\u0438\u043c": {
+            "city_name": "\u0418\u0448\u0438\u043c", 
+            "links": [
+                "vk.com/navalny_ishim"
+            ], 
+            "counters": {
+                "vk.com/navalny_ishim": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0431\u0443\u0440\u0433": {
+            "city_name": "\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0431\u0443\u0440\u0433", 
+            "links": [
+                "vk.com/dimon_ekat"
+            ], 
+            "counters": {
+                "vk.com/dimon_ekat": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u041a\u0430\u043b\u0438\u043d\u0438\u043d\u0433\u0440\u0430\u0434": {
+            "city_name": "\u041a\u0430\u043b\u0438\u043d\u0438\u043d\u0433\u0440\u0430\u0434", 
+            "links": [
+                "vk.com/navalny_kld"
+            ], 
+            "counters": {
+                "vk.com/navalny_kld": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u0422\u0432\u0435\u0440\u044c": {
+            "city_name": "\u0422\u0432\u0435\u0440\u044c", 
+            "links": [
+                "vk.com/dimon_tver"
+            ], 
+            "counters": {
+                "vk.com/dimon_tver": {
+                    "attending": 1100, 
+                    "invited": 9900, 
+                    "maybe": 1200
+                }
+            }
+        }, 
+        "\u0427\u0435\u043b\u044f\u0431\u0438\u043d\u0441\u043a": {
+            "city_name": "\u0427\u0435\u043b\u044f\u0431\u0438\u043d\u0441\u043a", 
+            "links": [
+                "vk.com/dimon_chel"
+            ], 
+            "counters": {
+                "vk.com/dimon_chel": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u0425\u0430\u0431\u0430\u0440\u043e\u0432\u0441\u043a": {
+            "city_name": "\u0425\u0430\u0431\u0430\u0440\u043e\u0432\u0441\u043a", 
+            "links": [
+                "vk.com/dimon_khvsk"
+            ], 
+            "counters": {
+                "vk.com/dimon_khvsk": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u0421\u0430\u0440\u0430\u0442\u043e\u0432": {
+            "city_name": "\u0421\u0430\u0440\u0430\u0442\u043e\u0432", 
+            "links": [
+                "vk.com/dimon_srtv"
+            ], 
+            "counters": {
+                "vk.com/dimon_srtv": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u041c\u0430\u0445\u0430\u0447\u043a\u0430\u043b\u0430": {
+            "city_name": "\u041c\u0430\u0445\u0430\u0447\u043a\u0430\u043b\u0430", 
+            "links": [
+                "vk.com/dimon_mkala"
+            ], 
+            "counters": {
+                "vk.com/dimon_mkala": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u0419\u043e\u0448\u043a\u0430\u0440-\u041e\u043b\u0430": {
+            "city_name": "\u0419\u043e\u0448\u043a\u0430\u0440-\u041e\u043b\u0430", 
+            "links": [
+                "vk.com/navalnyyoshkarola"
+            ], 
+            "counters": {
+                "vk.com/navalnyyoshkarola": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440": {
+            "city_name": "\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440", 
+            "links": [
+                "vk.com/dimon_krd"
+            ], 
+            "counters": {
+                "vk.com/dimon_krd": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u0412\u043e\u043b\u043e\u0433\u0434\u0430": {
+            "city_name": "\u0412\u043e\u043b\u043e\u0433\u0434\u0430", 
+            "links": [
+                "vk.com/mitingvologda"
+            ], 
+            "counters": {
+                "vk.com/mitingvologda": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u041c\u0430\u0433\u043d\u0438\u0442\u043e\u0433\u043e\u0440\u0441\u043a": {
+            "city_name": "\u041c\u0430\u0433\u043d\u0438\u0442\u043e\u0433\u043e\u0440\u0441\u043a", 
+            "links": [
+                "vk.com/fbk_miting_mgn"
+            ], 
+            "counters": {
+                "vk.com/fbk_miting_mgn": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u0412\u043e\u043b\u0433\u043e\u0433\u0440\u0430\u0434": {
+            "city_name": "\u0412\u043e\u043b\u0433\u043e\u0433\u0440\u0430\u0434", 
+            "links": [
+                "vk.com/dimon_vlg"
+            ], 
+            "counters": {
+                "vk.com/dimon_vlg": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u041e\u0440\u0435\u043d\u0431\u0443\u0440\u0433": {
+            "city_name": "\u041e\u0440\u0435\u043d\u0431\u0443\u0440\u0433", 
+            "links": [
+                "vk.com/event142596129"
+            ], 
+            "counters": {
+                "vk.com/event142596129": {
+                    "attending": 679, 
+                    "invited": 162, 
+                    "maybe": 415
+                }
+            }
+        }, 
+        "\u042e\u0436\u043d\u043e-\u0421\u0430\u0445\u0430\u043b\u0438\u043d\u0441\u043a": {
+            "city_name": "\u042e\u0436\u043d\u043e-\u0421\u0430\u0445\u0430\u043b\u0438\u043d\u0441\u043a", 
+            "links": [
+                "vk.com/event143111374"
+            ], 
+            "counters": {
+                "vk.com/event143111374": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u041d\u043e\u0432\u043e\u0441\u0438\u0431\u0438\u0440\u0441\u043a": {
+            "city_name": "\u041d\u043e\u0432\u043e\u0441\u0438\u0431\u0438\u0440\u0441\u043a", 
+            "links": [
+                "vk.com/dimon_nsk"
+            ], 
+            "counters": {
+                "vk.com/dimon_nsk": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u0418\u0440\u043a\u0443\u0442\u0441\u043a": {
+            "city_name": "\u0418\u0440\u043a\u0443\u0442\u0441\u043a", 
+            "links": [
+                "vk.com/event142588458", 
+                "facebook.com/events/1447758088577309/"
+            ], 
+            "counters": {
+                "facebook.com/events/1447758088577309/": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }, 
+                "vk.com/event142588458": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u0423\u043b\u0430\u043d-\u0423\u0434\u044d": {
+            "city_name": "\u0423\u043b\u0430\u043d-\u0423\u0434\u044d", 
+            "links": [
+                "vk.com/protivvorovuu"
+            ], 
+            "counters": {
+                "vk.com/protivvorovuu": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u041a\u043e\u0440\u043e\u043b\u0451\u0432": {
+            "city_name": "\u041a\u043e\u0440\u043e\u043b\u0451\u0432", 
+            "links": [
+                "vk.com/club142653979"
+            ], 
+            "counters": {
+                "vk.com/club142653979": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u041d\u043e\u0432\u043e\u0442\u0440\u043e\u0438\u0446\u043a": {
+            "city_name": "\u041d\u043e\u0432\u043e\u0442\u0440\u043e\u0438\u0446\u043a", 
+            "links": [
+                "vk.com/event143043763"
+            ], 
+            "counters": {
+                "vk.com/event143043763": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u042f\u0440\u043e\u0441\u043b\u0430\u0432\u043b\u044c": {
+            "city_name": "\u042f\u0440\u043e\u0441\u043b\u0430\u0432\u043b\u044c", 
+            "links": [
+                "vk.com/navalny_yar_meeting"
+            ], 
+            "counters": {
+                "vk.com/navalny_yar_meeting": {
+                    "attending": 952, 
+                    "invited": 201, 
+                    "maybe": 549
+                }
+            }
+        }, 
+        "\u041c\u043e\u0436\u0430\u0439\u0441\u043a": {
+            "city_name": "\u041c\u043e\u0436\u0430\u0439\u0441\u043a", 
+            "links": [
+                "vk.com/club142649783"
+            ], 
+            "counters": {
+                "vk.com/club142649783": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u0411\u0435\u043b\u0433\u043e\u0440\u043e\u0434": {
+            "city_name": "\u0411\u0435\u043b\u0433\u043e\u0440\u043e\u0434", 
+            "links": [
+                "vk.com/club142607863"
+            ], 
+            "counters": {
+                "vk.com/club142607863": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u0422\u0443\u043b\u0430": {
+            "city_name": "\u0422\u0443\u043b\u0430", 
+            "links": [
+                "vk.com/event142611406"
+            ], 
+            "counters": {
+                "vk.com/event142611406": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c": {
+            "city_name": "\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "links": [
+                "vk.com/anti_dimon"
+            ], 
+            "counters": {
+                "vk.com/anti_dimon": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u041f\u0435\u043d\u0437\u0430": {
+            "city_name": "\u041f\u0435\u043d\u0437\u0430", 
+            "links": [
+                "vk.com/teamnavalny_penza"
+            ], 
+            "counters": {
+                "vk.com/teamnavalny_penza": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u0427\u0435\u0431\u043e\u043a\u0441\u0430\u0440\u044b": {
+            "city_name": "\u0427\u0435\u0431\u043e\u043a\u0441\u0430\u0440\u044b", 
+            "links": [
+                "vk.com/dimon_chuv"
+            ], 
+            "counters": {
+                "vk.com/dimon_chuv": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a": {
+            "city_name": "\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a", 
+            "links": [
+                "vk.com/ulyanovsk26"
+            ], 
+            "counters": {
+                "vk.com/ulyanovsk26": {
+                    "attending": 575, 
+                    "invited": 112, 
+                    "maybe": 359
+                }
+            }
+        }, 
+        "\u0410\u0441\u0442\u0440\u0430\u0445\u0430\u043d\u044c": {
+            "city_name": "\u0410\u0441\u0442\u0440\u0430\u0445\u0430\u043d\u044c", 
+            "links": [
+                "vk.com/dimon_ast"
+            ], 
+            "counters": {
+                "vk.com/dimon_ast": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u041d\u0438\u0436\u043d\u0435\u0432\u0430\u0440\u0442\u043e\u0432\u0441\u043a": {
+            "city_name": "\u041d\u0438\u0436\u043d\u0435\u0432\u0430\u0440\u0442\u043e\u0432\u0441\u043a", 
+            "links": [
+                "vk.com/dimon_nvsk"
+            ], 
+            "counters": {
+                "vk.com/dimon_nvsk": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u0418\u0441\u043a\u0438\u0442\u0438\u043c": {
+            "city_name": "\u0418\u0441\u043a\u0438\u0442\u0438\u043c", 
+            "links": [
+                "vk.com/dimon_iskitim"
+            ], 
+            "counters": {
+                "vk.com/dimon_iskitim": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u0423\u0444\u0430": {
+            "city_name": "\u0423\u0444\u0430", 
+            "links": [
+                "vk.com/dimon_bashkiria"
+            ], 
+            "counters": {
+                "vk.com/dimon_bashkiria": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u0421\u0442\u0430\u0432\u0440\u043e\u043f\u043e\u043b\u044c": {
+            "city_name": "\u0421\u0442\u0430\u0432\u0440\u043e\u043f\u043e\u043b\u044c", 
+            "links": [
+                "vk.com/korrupcianet26"
+            ], 
+            "counters": {
+                "vk.com/korrupcianet26": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u041d\u0438\u0436\u043d\u0438\u0439 \u0422\u0430\u0433\u0438\u043b": {
+            "city_name": "\u041d\u0438\u0436\u043d\u0438\u0439 \u0422\u0430\u0433\u0438\u043b", 
+            "links": [
+                "vk.com/dimon_tagil"
+            ], 
+            "counters": {
+                "vk.com/dimon_tagil": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u0413\u0430\u0442\u0447\u0438\u043d\u0430": {
+            "city_name": "\u0413\u0430\u0442\u0447\u0438\u043d\u0430", 
+            "links": [
+                "vk.com/dimon_gtn"
+            ], 
+            "counters": {
+                "vk.com/dimon_gtn": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u041e\u0431\u043d\u0438\u043d\u0441\u043a": {
+            "city_name": "\u041e\u0431\u043d\u0438\u043d\u0441\u043a", 
+            "links": [
+                "vk.com/club142793898"
+            ], 
+            "counters": {
+                "vk.com/club142793898": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u0410\u0440\u0445\u0430\u043d\u0433\u0435\u043b\u044c\u0441\u043a": {
+            "city_name": "\u0410\u0440\u0445\u0430\u043d\u0433\u0435\u043b\u044c\u0441\u043a", 
+            "links": [
+                "vk.com/club142613767"
+            ], 
+            "counters": {
+                "vk.com/club142613767": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u0421\u044b\u043a\u0442\u044b\u0432\u043a\u0430\u0440": {
+            "city_name": "\u0421\u044b\u043a\u0442\u044b\u0432\u043a\u0430\u0440", 
+            "links": [
+                "vk.com/dimon_sykt"
+            ], 
+            "counters": {
+                "vk.com/dimon_sykt": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u0411\u0438\u0439\u0441\u043a": {
+            "city_name": "\u0411\u0438\u0439\u0441\u043a", 
+            "links": [
+                "vk.com/dimon_biysk"
+            ], 
+            "counters": {
+                "vk.com/dimon_biysk": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u0427\u0435\u0440\u0435\u043f\u043e\u0432\u0435\u0446": {
+            "city_name": "\u0427\u0435\u0440\u0435\u043f\u043e\u0432\u0435\u0446", 
+            "links": [
+                "vk.com/navalny_cherepovec"
+            ], 
+            "counters": {
+                "vk.com/navalny_cherepovec": {
+                    "attending": 529, 
+                    "invited": 261, 
+                    "maybe": 320
+                }
+            }
+        }, 
+        "\u0422\u0430\u043c\u0431\u043e\u0432": {
+            "city_name": "\u0422\u0430\u043c\u0431\u043e\u0432", 
+            "links": [
+                "vk.com/event142694886"
+            ], 
+            "counters": {
+                "vk.com/event142694886": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u0410\u043b\u044c\u043c\u0435\u0442\u044c\u0435\u0432\u0441\u043a": {
+            "city_name": "\u0410\u043b\u044c\u043c\u0435\u0442\u044c\u0435\u0432\u0441\u043a", 
+            "links": [
+                "vk.com/event142930086"
+            ], 
+            "counters": {
+                "vk.com/event142930086": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u0411\u0435\u0440\u0434\u0441\u043a:": {
+            "city_name": "\u0411\u0435\u0440\u0434\u0441\u043a:", 
+            "links": [
+                "vk.com/dimon_berdsk"
+            ], 
+            "counters": {
+                "vk.com/dimon_berdsk": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u041f\u0435\u0440\u043c\u044c": {
+            "city_name": "\u041f\u0435\u0440\u043c\u044c", 
+            "links": [
+                "vk.com/dimon_permb"
+            ], 
+            "counters": {
+                "vk.com/dimon_permb": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u0422\u0438\u0445\u043e\u0440\u0435\u0446\u043a": {
+            "city_name": "\u0422\u0438\u0445\u043e\u0440\u0435\u0446\u043a", 
+            "links": [
+                "vk.com/event142631543"
+            ], 
+            "counters": {
+                "vk.com/event142631543": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u0420\u044f\u0437\u0430\u043d\u044c": {
+            "city_name": "\u0420\u044f\u0437\u0430\u043d\u044c", 
+            "links": [
+                "vk.com/dimon_ryaz"
+            ], 
+            "counters": {
+                "vk.com/dimon_ryaz": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u0411\u043b\u0430\u0433\u043e\u0432\u0435\u0449\u0435\u043d\u0441\u043a": {
+            "city_name": "\u0411\u043b\u0430\u0433\u043e\u0432\u0435\u0449\u0435\u043d\u0441\u043a", 
+            "links": [
+                "vk.com/dimon_blagoveshchensk"
+            ], 
+            "counters": {
+                "vk.com/dimon_blagoveshchensk": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u041a\u0443\u0437\u043d\u0435\u0446\u043a": {
+            "city_name": "\u041a\u0443\u0437\u043d\u0435\u0446\u043a", 
+            "links": [
+                "vk.com/event142688374"
+            ], 
+            "counters": {
+                "vk.com/event142688374": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440": {
+            "city_name": "\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440", 
+            "links": [
+                "vk.com/dimon_vld"
+            ], 
+            "counters": {
+                "vk.com/dimon_vld": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u0412\u043e\u043b\u0436\u0441\u043a\u0438\u0439": {
+            "city_name": "\u0412\u043e\u043b\u0436\u0441\u043a\u0438\u0439", 
+            "links": [
+                "www.facebook.com/events/753247958169730/"
+            ], 
+            "counters": {
+                "www.facebook.com/events/753247958169730/": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u0422\u043e\u043b\u044c\u044f\u0442\u0442\u0438": {
+            "city_name": "\u0422\u043e\u043b\u044c\u044f\u0442\u0442\u0438", 
+            "links": [
+                "vk.com/club142591947"
+            ], 
+            "counters": {
+                "vk.com/club142591947": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u041a\u0430\u043b\u0443\u0433\u0430": {
+            "city_name": "\u041a\u0430\u043b\u0443\u0433\u0430", 
+            "links": [
+                "vk.com/club142599120"
+            ], 
+            "counters": {
+                "vk.com/club142599120": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u041a\u0438\u0440\u043e\u0432": {
+            "city_name": "\u041a\u0438\u0440\u043e\u0432", 
+            "links": [
+                "vk.com/event142591627"
+            ], 
+            "counters": {
+                "vk.com/event142591627": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u041c\u043e\u0441\u043a\u0432\u0430": {
+            "city_name": "\u041c\u043e\u0441\u043a\u0432\u0430", 
+            "links": [
+                "vk.com/dimon_moscow", 
+                "facebook.com/events/1860803440858828/"
+            ], 
+            "counters": {
+                "vk.com/dimon_moscow": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }, 
+                "facebook.com/events/1860803440858828/": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u0412\u043e\u0440\u043e\u043d\u0435\u0436": {
+            "city_name": "\u0412\u043e\u0440\u043e\u043d\u0435\u0436", 
+            "links": [
+                "vk.com/dimon_vrnzh"
+            ], 
+            "counters": {
+                "vk.com/dimon_vrnzh": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u041c\u0443\u0440\u043c\u0430\u043d\u0441\u043a": {
+            "city_name": "\u041c\u0443\u0440\u043c\u0430\u043d\u0441\u043a", 
+            "links": [
+                "vk.com/club142616896"
+            ], 
+            "counters": {
+                "vk.com/club142616896": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u041e\u0440\u0441\u043a": {
+            "city_name": "\u041e\u0440\u0441\u043a", 
+            "links": [
+                "vk.com/fbk_orsk"
+            ], 
+            "counters": {
+                "vk.com/fbk_orsk": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u044f\u0440\u0441\u043a": {
+            "city_name": "\u041a\u0440\u0430\u0441\u043d\u043e\u044f\u0440\u0441\u043a", 
+            "links": [
+                "vk.com/dimon_krsk"
+            ], 
+            "counters": {
+                "vk.com/dimon_krsk": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434": {
+            "city_name": "\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434", 
+            "links": [
+                "vk.com/dimon_novgorod"
+            ], 
+            "counters": {
+                "vk.com/dimon_novgorod": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u041a\u0443\u0440\u0433\u0430\u043d": {
+            "city_name": "\u041a\u0443\u0440\u0433\u0430\u043d", 
+            "links": [
+                "vk.com/netkopcii"
+            ], 
+            "counters": {
+                "vk.com/netkopcii": {
+                    "attending": 355, 
+                    "invited": 49, 
+                    "maybe": 167
+                }
+            }
+        }, 
+        "\u0421\u043c\u043e\u043b\u0435\u043d\u0441\u043a": {
+            "city_name": "\u0421\u043c\u043e\u043b\u0435\u043d\u0441\u043a", 
+            "links": [
+                "vk.com/nedimonsmolensk"
+            ], 
+            "counters": {
+                "vk.com/nedimonsmolensk": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u041a\u0430\u0437\u0430\u043d\u044c": {
+            "city_name": "\u041a\u0430\u0437\u0430\u043d\u044c", 
+            "links": [
+                "vk.com/dimon_kzn"
+            ], 
+            "counters": {
+                "vk.com/dimon_kzn": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u041a\u0443\u0440\u0441\u043a": {
+            "city_name": "\u041a\u0443\u0440\u0441\u043a", 
+            "links": [
+                "vk.com/event142692882"
+            ], 
+            "counters": {
+                "vk.com/event142692882": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u0421\u0442\u0430\u0440\u044b\u0439 \u041e\u0441\u043a\u043e\u043b": {
+            "city_name": "\u0421\u0442\u0430\u0440\u044b\u0439 \u041e\u0441\u043a\u043e\u043b", 
+            "links": [
+                "vk.com/event142613543"
+            ], 
+            "counters": {
+                "vk.com/event142613543": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u0411\u0430\u043b\u0430\u0448\u0438\u0445\u0430": {
+            "city_name": "\u0411\u0430\u043b\u0430\u0448\u0438\u0445\u0430", 
+            "links": [
+                "vk.com/dimon_balashiha"
+            ], 
+            "counters": {
+                "vk.com/dimon_balashiha": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u0427\u0443\u0441\u043e\u0432\u043e\u0439": {
+            "city_name": "\u0427\u0443\u0441\u043e\u0432\u043e\u0439", 
+            "links": [
+                "vk.com/dimon_chusovoy"
+            ], 
+            "counters": {
+                "vk.com/dimon_chusovoy": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u0421\u0430\u0440\u0430\u043d\u0441\u043a": {
+            "city_name": "\u0421\u0430\u0440\u0430\u043d\u0441\u043a", 
+            "links": [
+                "vk.com/club142601056"
+            ], 
+            "counters": {
+                "vk.com/club142601056": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u0411\u0430\u0440\u043d\u0430\u0443\u043b": {
+            "city_name": "\u0411\u0430\u0440\u043d\u0430\u0443\u043b", 
+            "links": [
+                "vk.com/dimon_barnaul"
+            ], 
+            "counters": {
+                "vk.com/dimon_barnaul": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u0413\u043b\u0430\u0437\u043e\u0432": {
+            "city_name": "\u0413\u043b\u0430\u0437\u043e\u0432", 
+            "links": [
+                "vk.com/event142869778"
+            ], 
+            "counters": {
+                "vk.com/event142869778": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u041d\u0438\u0436\u043d\u0438\u0439 \u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434": {
+            "city_name": "\u041d\u0438\u0436\u043d\u0438\u0439 \u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434", 
+            "links": [
+                "vk.com/dimon_nn"
+            ], 
+            "counters": {
+                "vk.com/dimon_nn": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }, 
+        "\u041a\u043e\u043c\u0441\u043e\u043c\u043e\u043b\u044c\u0441\u043a-\u043d\u0430-\u0410\u043c\u0443\u0440\u0435": {
+            "city_name": "\u041a\u043e\u043c\u0441\u043e\u043c\u043e\u043b\u044c\u0441\u043a-\u043d\u0430-\u0410\u043c\u0443\u0440\u0435", 
+            "links": [
+                "vk.com/navalny_kms"
+            ], 
+            "counters": {
+                "vk.com/navalny_kms": {
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
+                }
+            }
+        }
+    }, 
+    "cities_without_stats": [
+        {
+            "city_name": "\u041a\u0430\u0447\u043a\u0430\u043d\u0430\u0440", 
+            "url": "vk.com/dimon_kachkanar"
+        }, 
+        {
+            "city_name": "\u041b\u043e\u043d\u0434\u043e\u043d", 
+            "url": "facebook.com/events/1480576838661189/"
+        }, 
+        {
+            "city_name": "\u0410\u0440\u043c\u0430\u0432\u0438\u0440", 
+            "url": "vk.com/club8869990"
+        }, 
+        {
+            "city_name": "\u041a\u0435\u043c\u0435\u0440\u043e\u0432\u043e", 
+            "url": "vk.com/event142729484"
+        }, 
+        {
+            "city_name": "\u0427\u0438\u0442\u0430", 
+            "url": "vk.com/event141385841"
+        }, 
+        {
+            "city_name": "\u0420\u043e\u0441\u0442\u043e\u0432-\u043d\u0430-\u0414\u043e\u043d\u0443", 
+            "url": "vk.com/dimon_rnd"
+        }, 
+        {
+            "city_name": "\u0412\u043b\u0430\u0434\u0438\u0432\u043e\u0441\u0442\u043e\u043a", 
+            "url": "vk.com/dimon_vdk"
+        }, 
+        {
+            "city_name": "\u041e\u0440\u0451\u043b", 
+            "url": "vk.com/nedimonorel"
+        }, 
+        {
+            "city_name": "\u0423\u0445\u0442\u0430", 
+            "url": "vk.com/dimon_uhta"
+        }, 
+        {
+            "city_name": "\u041e\u043c\u0441\u043a", 
+            "url": "vk.com/omsk_trebuet_otvet"
+        }, 
+        {
+            "city_name": "\u0418\u0436\u0435\u0432\u0441\u043a", 
+            "url": "vk.com/event142595552"
+        }, 
+        {
+            "city_name": "\u041f\u0441\u043a\u043e\u0432", 
+            "url": "www.facebook.com/events/1234328606681342/"
+        }, 
+        {
+            "city_name": "\u041f\u0441\u043a\u043e\u0432", 
+            "url": "vk.com/dimon_psk"
+        }, 
+        {
+            "city_name": "\u0422\u044e\u043c\u0435\u043d\u044c", 
+            "url": "vk.com/dimon_tmn"
+        }, 
+        {
+            "city_name": "\u041d\u0430\u0431\u0435\u0440\u0435\u0436\u043d\u044b\u0435 \u0427\u0435\u043b\u043d\u044b", 
+            "url": "vk.com/event142618238"
+        }, 
+        {
+            "city_name": "\u0421\u0430\u043c\u0430\u0440\u0430", 
+            "url": "vk.com/dimon_samara"
+        }, 
+        {
+            "city_name": "\u0421\u0435\u0440\u0433\u0438\u0435\u0432 \u041f\u043e\u0441\u0430\u0434", 
+            "url": "vk.com/event143218522"
+        }, 
+        {
+            "city_name": "\u0411\u0440\u044f\u043d\u0441\u043a", 
+            "url": "vk.com/club142611852"
+        }, 
+        {
+            "city_name": "\u041f\u0435\u0442\u0440\u043e\u0437\u0430\u0432\u043e\u0434\u0441\u043a", 
+            "url": "vk.com/event142646052"
+        }, 
+        {
+            "city_name": "\u042f\u043a\u0443\u0442\u0441\u043a", 
+            "url": "vk.com/event142646117"
+        }, 
+        {
+            "city_name": "\u0412\u043e\u0442\u043a\u0438\u043d\u0441\u043a", 
+            "url": "vk.com/event142676348"
+        }, 
+        {
+            "city_name": "\u0421\u0430\u0440\u0430\u043f\u0443\u043b", 
+            "url": "vk.com/event142653568"
+        }, 
+        {
+            "city_name": "\u0422\u043e\u043c\u0441\u043a", 
+            "url": "vk.com/dimon_tomsk"
+        }, 
+        {
+            "city_name": "\u041f\u0440\u0430\u0433\u0430", 
+            "url": "vk.com/dimon_prg"
+        }, 
+        {
+            "city_name": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433", 
+            "url": "vk.com/dimon_saintp"
+        }, 
+        {
+            "city_name": "\u041b\u0438\u043f\u0435\u0446\u043a", 
+            "url": "vk.com/dimon_lip"
+        }, 
+        {
+            "city_name": "\u041a\u043e\u0441\u0442\u0440\u043e\u043c\u0430", 
+            "url": "vk.com/event142585403"
+        }, 
+        {
+            "city_name": "\u041d\u0435\u0444\u0442\u0435\u043a\u0430\u043c\u0441\u043a", 
+            "url": "vk.com/dimon_neft"
+        }, 
+        {
+            "city_name": "\u0414\u0437\u0435\u0440\u0436\u0438\u043d\u0441\u043a", 
+            "url": "vk.com/miting26dzr"
+        }, 
+        {
+            "city_name": "\u0418\u0448\u0438\u043c", 
+            "url": "vk.com/navalny_ishim"
+        }, 
+        {
+            "city_name": "\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0431\u0443\u0440\u0433", 
+            "url": "vk.com/dimon_ekat"
+        }, 
+        {
+            "city_name": "\u041a\u0430\u043b\u0438\u043d\u0438\u043d\u0433\u0440\u0430\u0434", 
+            "url": "vk.com/navalny_kld"
+        }, 
+        {
+            "city_name": "\u0427\u0435\u043b\u044f\u0431\u0438\u043d\u0441\u043a", 
+            "url": "vk.com/dimon_chel"
+        }, 
+        {
+            "city_name": "\u0425\u0430\u0431\u0430\u0440\u043e\u0432\u0441\u043a", 
+            "url": "vk.com/dimon_khvsk"
+        }, 
+        {
+            "city_name": "\u0421\u0430\u0440\u0430\u0442\u043e\u0432", 
+            "url": "vk.com/dimon_srtv"
+        }, 
+        {
+            "city_name": "\u041c\u0430\u0445\u0430\u0447\u043a\u0430\u043b\u0430", 
+            "url": "vk.com/dimon_mkala"
+        }, 
+        {
+            "city_name": "\u0419\u043e\u0448\u043a\u0430\u0440-\u041e\u043b\u0430", 
+            "url": "vk.com/navalnyyoshkarola"
+        }, 
+        {
+            "city_name": "\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440", 
+            "url": "vk.com/dimon_krd"
+        }, 
+        {
+            "city_name": "\u0412\u043e\u043b\u043e\u0433\u0434\u0430", 
+            "url": "vk.com/mitingvologda"
+        }, 
+        {
+            "city_name": "\u041c\u0430\u0433\u043d\u0438\u0442\u043e\u0433\u043e\u0440\u0441\u043a", 
+            "url": "vk.com/fbk_miting_mgn"
+        }, 
+        {
+            "city_name": "\u0412\u043e\u043b\u0433\u043e\u0433\u0440\u0430\u0434", 
+            "url": "vk.com/dimon_vlg"
+        }, 
+        {
+            "city_name": "\u042e\u0436\u043d\u043e-\u0421\u0430\u0445\u0430\u043b\u0438\u043d\u0441\u043a", 
+            "url": "vk.com/event143111374"
+        }, 
+        {
+            "city_name": "\u041d\u043e\u0432\u043e\u0441\u0438\u0431\u0438\u0440\u0441\u043a", 
+            "url": "vk.com/dimon_nsk"
+        }, 
+        {
+            "city_name": "\u0418\u0440\u043a\u0443\u0442\u0441\u043a", 
+            "url": "facebook.com/events/1447758088577309/"
+        }, 
+        {
+            "city_name": "\u0418\u0440\u043a\u0443\u0442\u0441\u043a", 
+            "url": "vk.com/event142588458"
+        }, 
+        {
+            "city_name": "\u0423\u043b\u0430\u043d-\u0423\u0434\u044d", 
+            "url": "vk.com/protivvorovuu"
+        }, 
+        {
+            "city_name": "\u041a\u043e\u0440\u043e\u043b\u0451\u0432", 
+            "url": "vk.com/club142653979"
+        }, 
+        {
+            "city_name": "\u041d\u043e\u0432\u043e\u0442\u0440\u043e\u0438\u0446\u043a", 
+            "url": "vk.com/event143043763"
+        }, 
+        {
+            "city_name": "\u041c\u043e\u0436\u0430\u0439\u0441\u043a", 
+            "url": "vk.com/club142649783"
+        }, 
+        {
+            "city_name": "\u0411\u0435\u043b\u0433\u043e\u0440\u043e\u0434", 
+            "url": "vk.com/club142607863"
+        }, 
+        {
+            "city_name": "\u0422\u0443\u043b\u0430", 
+            "url": "vk.com/event142611406"
+        }, 
+        {
+            "city_name": "\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c", 
+            "url": "vk.com/anti_dimon"
+        }, 
+        {
+            "city_name": "\u041f\u0435\u043d\u0437\u0430", 
+            "url": "vk.com/teamnavalny_penza"
+        }, 
+        {
+            "city_name": "\u0427\u0435\u0431\u043e\u043a\u0441\u0430\u0440\u044b", 
+            "url": "vk.com/dimon_chuv"
+        }, 
+        {
+            "city_name": "\u0410\u0441\u0442\u0440\u0430\u0445\u0430\u043d\u044c", 
+            "url": "vk.com/dimon_ast"
+        }, 
+        {
+            "city_name": "\u041d\u0438\u0436\u043d\u0435\u0432\u0430\u0440\u0442\u043e\u0432\u0441\u043a", 
+            "url": "vk.com/dimon_nvsk"
+        }, 
+        {
+            "city_name": "\u0418\u0441\u043a\u0438\u0442\u0438\u043c", 
+            "url": "vk.com/dimon_iskitim"
+        }, 
+        {
+            "city_name": "\u0423\u0444\u0430", 
+            "url": "vk.com/dimon_bashkiria"
+        }, 
+        {
+            "city_name": "\u0421\u0442\u0430\u0432\u0440\u043e\u043f\u043e\u043b\u044c", 
+            "url": "vk.com/korrupcianet26"
+        }, 
+        {
+            "city_name": "\u041d\u0438\u0436\u043d\u0438\u0439 \u0422\u0430\u0433\u0438\u043b", 
+            "url": "vk.com/dimon_tagil"
+        }, 
+        {
+            "city_name": "\u0413\u0430\u0442\u0447\u0438\u043d\u0430", 
+            "url": "vk.com/dimon_gtn"
+        }, 
+        {
+            "city_name": "\u041e\u0431\u043d\u0438\u043d\u0441\u043a", 
+            "url": "vk.com/club142793898"
+        }, 
+        {
+            "city_name": "\u0410\u0440\u0445\u0430\u043d\u0433\u0435\u043b\u044c\u0441\u043a", 
+            "url": "vk.com/club142613767"
+        }, 
+        {
+            "city_name": "\u0421\u044b\u043a\u0442\u044b\u0432\u043a\u0430\u0440", 
+            "url": "vk.com/dimon_sykt"
+        }, 
+        {
+            "city_name": "\u0411\u0438\u0439\u0441\u043a", 
+            "url": "vk.com/dimon_biysk"
+        }, 
+        {
+            "city_name": "\u0422\u0430\u043c\u0431\u043e\u0432", 
+            "url": "vk.com/event142694886"
+        }, 
+        {
+            "city_name": "\u0410\u043b\u044c\u043c\u0435\u0442\u044c\u0435\u0432\u0441\u043a", 
+            "url": "vk.com/event142930086"
+        }, 
+        {
+            "city_name": "\u0411\u0435\u0440\u0434\u0441\u043a:", 
+            "url": "vk.com/dimon_berdsk"
+        }, 
+        {
+            "city_name": "\u041f\u0435\u0440\u043c\u044c", 
+            "url": "vk.com/dimon_permb"
+        }, 
+        {
+            "city_name": "\u0422\u0438\u0445\u043e\u0440\u0435\u0446\u043a", 
+            "url": "vk.com/event142631543"
+        }, 
+        {
+            "city_name": "\u0420\u044f\u0437\u0430\u043d\u044c", 
+            "url": "vk.com/dimon_ryaz"
+        }, 
+        {
+            "city_name": "\u0411\u043b\u0430\u0433\u043e\u0432\u0435\u0449\u0435\u043d\u0441\u043a", 
+            "url": "vk.com/dimon_blagoveshchensk"
+        }, 
+        {
+            "city_name": "\u041a\u0443\u0437\u043d\u0435\u0446\u043a", 
+            "url": "vk.com/event142688374"
+        }, 
+        {
+            "city_name": "\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440", 
+            "url": "vk.com/dimon_vld"
+        }, 
+        {
+            "city_name": "\u0412\u043e\u043b\u0436\u0441\u043a\u0438\u0439", 
+            "url": "www.facebook.com/events/753247958169730/"
+        }, 
+        {
+            "city_name": "\u0422\u043e\u043b\u044c\u044f\u0442\u0442\u0438", 
+            "url": "vk.com/club142591947"
+        }, 
+        {
+            "city_name": "\u041a\u0430\u043b\u0443\u0433\u0430", 
+            "url": "vk.com/club142599120"
+        }, 
+        {
+            "city_name": "\u041a\u0438\u0440\u043e\u0432", 
+            "url": "vk.com/event142591627"
+        }, 
+        {
+            "city_name": "\u041c\u043e\u0441\u043a\u0432\u0430", 
+            "url": "vk.com/dimon_moscow"
+        }, 
+        {
+            "city_name": "\u041c\u043e\u0441\u043a\u0432\u0430", 
+            "url": "facebook.com/events/1860803440858828/"
+        }, 
+        {
+            "city_name": "\u0412\u043e\u0440\u043e\u043d\u0435\u0436", 
+            "url": "vk.com/dimon_vrnzh"
+        }, 
+        {
+            "city_name": "\u041c\u0443\u0440\u043c\u0430\u043d\u0441\u043a", 
+            "url": "vk.com/club142616896"
+        }, 
+        {
+            "city_name": "\u041e\u0440\u0441\u043a", 
+            "url": "vk.com/fbk_orsk"
+        }, 
+        {
+            "city_name": "\u041a\u0440\u0430\u0441\u043d\u043e\u044f\u0440\u0441\u043a", 
+            "url": "vk.com/dimon_krsk"
+        }, 
+        {
+            "city_name": "\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434", 
+            "url": "vk.com/dimon_novgorod"
+        }, 
+        {
+            "city_name": "\u0421\u043c\u043e\u043b\u0435\u043d\u0441\u043a", 
+            "url": "vk.com/nedimonsmolensk"
+        }, 
+        {
+            "city_name": "\u041a\u0430\u0437\u0430\u043d\u044c", 
+            "url": "vk.com/dimon_kzn"
+        }, 
+        {
+            "city_name": "\u041a\u0443\u0440\u0441\u043a", 
+            "url": "vk.com/event142692882"
+        }, 
+        {
+            "city_name": "\u0421\u0442\u0430\u0440\u044b\u0439 \u041e\u0441\u043a\u043e\u043b", 
+            "url": "vk.com/event142613543"
+        }, 
+        {
+            "city_name": "\u0411\u0430\u043b\u0430\u0448\u0438\u0445\u0430", 
+            "url": "vk.com/dimon_balashiha"
+        }, 
+        {
+            "city_name": "\u0427\u0443\u0441\u043e\u0432\u043e\u0439", 
+            "url": "vk.com/dimon_chusovoy"
+        }, 
+        {
+            "city_name": "\u0421\u0430\u0440\u0430\u043d\u0441\u043a", 
+            "url": "vk.com/club142601056"
+        }, 
+        {
+            "city_name": "\u0411\u0430\u0440\u043d\u0430\u0443\u043b", 
+            "url": "vk.com/dimon_barnaul"
+        }, 
+        {
+            "city_name": "\u0413\u043b\u0430\u0437\u043e\u0432", 
+            "url": "vk.com/event142869778"
+        }, 
+        {
+            "city_name": "\u041d\u0438\u0436\u043d\u0438\u0439 \u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434", 
+            "url": "vk.com/dimon_nn"
+        }, 
+        {
+            "city_name": "\u041a\u043e\u043c\u0441\u043e\u043c\u043e\u043b\u044c\u0441\u043a-\u043d\u0430-\u0410\u043c\u0443\u0440\u0435", 
+            "url": "vk.com/navalny_kms"
+        }
+    ], 
+    "updated_time": "2017-04-03T06:02:03.573418"
 }
