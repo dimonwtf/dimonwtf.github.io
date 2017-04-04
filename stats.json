@@ -1,10 +1,10 @@
 {
     "stats_total": {
         "total_cities": 102, 
-        "attending": 6205, 
-        "invited": 11184, 
+        "attending": 6204, 
+        "invited": 11182, 
         "total_cities_without_stats": 95, 
-        "maybe": 4118
+        "maybe": 4117
     }, 
     "stats_by_city": {
         "\u0418\u0432\u0430\u043d\u043e\u0432\u043e": {
@@ -15,7 +15,7 @@
             "counters": {
                 "vk.com/dimon_iv": {
                     "attending": 777, 
-                    "invited": 318, 
+                    "invited": 317, 
                     "maybe": 481
                 }
             }
@@ -379,7 +379,7 @@
             "counters": {
                 "vk.com/event142708716": {
                     "attending": 692, 
-                    "invited": 135, 
+                    "invited": 134, 
                     "maybe": 308
                 }
             }
@@ -588,7 +588,7 @@
                 "vk.com/event142596129": {
                     "attending": 672, 
                     "invited": 159, 
-                    "maybe": 412
+                    "maybe": 411
                 }
             }
         }, 
@@ -685,7 +685,7 @@
                 "vk.com/navalny_yar_meeting": {
                     "attending": 953, 
                     "invited": 195, 
-                    "maybe": 541
+                    "maybe": 542
                 }
             }
         }, 
@@ -932,7 +932,7 @@
                 "vk.com/navalny_cherepovec": {
                     "attending": 528, 
                     "invited": 258, 
-                    "maybe": 318
+                    "maybe": 317
                 }
             }
         }, 
@@ -1196,7 +1196,7 @@
             ], 
             "counters": {
                 "vk.com/netkopcii": {
-                    "attending": 355, 
+                    "attending": 354, 
                     "invited": 46, 
                     "maybe": 165
                 }
@@ -1728,5 +1728,5 @@
             "url": "vk.com/navalny_kms"
         }
     ], 
-    "updated_time": "2017-04-04T11:30:03.366449"
+    "updated_time": "2017-04-04T12:02:03.319860"
 }
