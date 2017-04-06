@@ -1,10 +1,10 @@
 {
     "stats_total": {
         "total_cities": 102, 
-        "attending": 5499, 
-        "invited": 10773, 
+        "attending": 5498, 
+        "invited": 10770, 
         "total_cities_without_stats": 95, 
-        "maybe": 3649
+        "maybe": 3650
     }, 
     "stats_by_city": {
         "\u0418\u0432\u0430\u043d\u043e\u0432\u043e": {
@@ -229,7 +229,7 @@
             "counters": {
                 "vk.com/event143218522": {
                     "attending": 72, 
-                    "invited": 19, 
+                    "invited": 18, 
                     "maybe": 28
                 }
             }
@@ -379,8 +379,8 @@
             "counters": {
                 "vk.com/event142708716": {
                     "attending": 702, 
-                    "invited": 145, 
-                    "maybe": 306
+                    "invited": 144, 
+                    "maybe": 307
                 }
             }
         }, 
@@ -586,9 +586,9 @@
             ], 
             "counters": {
                 "vk.com/event142596129": {
-                    "attending": 675, 
+                    "attending": 674, 
                     "invited": 154, 
-                    "maybe": 405
+                    "maybe": 406
                 }
             }
         }, 
@@ -931,8 +931,8 @@
             "counters": {
                 "vk.com/navalny_cherepovec": {
                     "attending": 525, 
-                    "invited": 251, 
-                    "maybe": 314
+                    "invited": 250, 
+                    "maybe": 315
                 }
             }
         }, 
@@ -1198,7 +1198,7 @@
                 "vk.com/netkopcii": {
                     "attending": 358, 
                     "invited": 42, 
-                    "maybe": 163
+                    "maybe": 161
                 }
             }
         }, 
@@ -1728,5 +1728,5 @@
             "url": "vk.com/navalny_kms"
         }
     ], 
-    "updated_time": "2017-04-06T17:30:03.651044"
+    "updated_time": "2017-04-06T18:02:05.224887"
 }
