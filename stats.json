@@ -1,7 +1,7 @@
 {
     "stats_total": {
         "total_cities": 102, 
-        "attending": 5492, 
+        "attending": 5491, 
         "invited": 10656, 
         "total_cities_without_stats": 95, 
         "maybe": 3643
@@ -683,7 +683,7 @@
             ], 
             "counters": {
                 "vk.com/navalny_yar_meeting": {
-                    "attending": 947, 
+                    "attending": 946, 
                     "invited": 190, 
                     "maybe": 536
                 }
@@ -1728,5 +1728,5 @@
             "url": "vk.com/navalny_kms"
         }
     ], 
-    "updated_time": "2017-04-07T22:30:02.779459"
+    "updated_time": "2017-04-07T23:01:59.919553"
 }
