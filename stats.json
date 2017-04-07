@@ -2,9 +2,9 @@
     "stats_total": {
         "total_cities": 102, 
         "attending": 5490, 
-        "invited": 10667, 
+        "invited": 10664, 
         "total_cities_without_stats": 95, 
-        "maybe": 3647
+        "maybe": 3645
     }, 
     "stats_by_city": {
         "\u0418\u0432\u0430\u043d\u043e\u0432\u043e": {
@@ -230,7 +230,7 @@
                 "vk.com/event143218522": {
                     "attending": 72, 
                     "invited": 17, 
-                    "maybe": 30
+                    "maybe": 31
                 }
             }
         }, 
@@ -379,8 +379,8 @@
             "counters": {
                 "vk.com/event142708716": {
                     "attending": 701, 
-                    "invited": 141, 
-                    "maybe": 307
+                    "invited": 140, 
+                    "maybe": 308
                 }
             }
         }, 
@@ -588,7 +588,7 @@
                 "vk.com/event142596129": {
                     "attending": 671, 
                     "invited": 156, 
-                    "maybe": 407
+                    "maybe": 404
                 }
             }
         }, 
@@ -685,7 +685,7 @@
                 "vk.com/navalny_yar_meeting": {
                     "attending": 948, 
                     "invited": 191, 
-                    "maybe": 536
+                    "maybe": 535
                 }
             }
         }, 
@@ -931,7 +931,7 @@
             "counters": {
                 "vk.com/navalny_cherepovec": {
                     "attending": 523, 
-                    "invited": 248, 
+                    "invited": 247, 
                     "maybe": 316
                 }
             }
@@ -1197,7 +1197,7 @@
             "counters": {
                 "vk.com/netkopcii": {
                     "attending": 358, 
-                    "invited": 42, 
+                    "invited": 41, 
                     "maybe": 161
                 }
             }
@@ -1728,5 +1728,5 @@
             "url": "vk.com/navalny_kms"
         }
     ], 
-    "updated_time": "2017-04-07T15:30:03.703316"
+    "updated_time": "2017-04-07T16:02:06.219320"
 }
