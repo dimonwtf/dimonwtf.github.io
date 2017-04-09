@@ -625,12 +625,12 @@
                 "facebook.com/events/1447758088577309/"
             ], 
             "counters": {
-                "vk.com/event142588458": {
+                "facebook.com/events/1447758088577309/": {
                     "attending": 0, 
                     "invited": 0, 
                     "maybe": 0
                 }, 
-                "facebook.com/events/1447758088577309/": {
+                "vk.com/event142588458": {
                     "attending": 0, 
                     "invited": 0, 
                     "maybe": 0
@@ -1525,11 +1525,11 @@
         }, 
         {
             "city_name": "\u0418\u0440\u043a\u0443\u0442\u0441\u043a", 
-            "url": "vk.com/event142588458"
+            "url": "facebook.com/events/1447758088577309/"
         }, 
         {
             "city_name": "\u0418\u0440\u043a\u0443\u0442\u0441\u043a", 
-            "url": "facebook.com/events/1447758088577309/"
+            "url": "vk.com/event142588458"
         }, 
         {
             "city_name": "\u0423\u043b\u0430\u043d-\u0423\u0434\u044d", 
@@ -1740,5 +1740,5 @@
             "url": "vk.com/navalny_kms"
         }
     ], 
-    "updated_time": "2017-04-09T15:02:09.498564"
+    "updated_time": "2017-04-09T15:30:03.503625"
 }
