@@ -2,7 +2,7 @@
     "stats_total": {
         "total_cities": 102, 
         "attending": 3983, 
-        "invited": 10363, 
+        "invited": 10263, 
         "total_cities_without_stats": 98, 
         "maybe": 2782
     }, 
@@ -457,7 +457,7 @@
             "counters": {
                 "vk.com/dimon_tver": {
                     "attending": 1100, 
-                    "invited": 9700, 
+                    "invited": 9600, 
                     "maybe": 1200
                 }
             }
@@ -1740,5 +1740,5 @@
             "url": "vk.com/navalny_kms"
         }
     ], 
-    "updated_time": "2017-04-10T22:30:02.974468"
+    "updated_time": "2017-04-10T23:02:07.594945"
 }
