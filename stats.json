@@ -1,8 +1,8 @@
 {
     "stats_total": {
         "total_cities": 102, 
-        "attending": 3983, 
-        "invited": 10260, 
+        "attending": 3982, 
+        "invited": 10259, 
         "total_cities_without_stats": 98, 
         "maybe": 2781
     }, 
@@ -930,8 +930,8 @@
             ], 
             "counters": {
                 "vk.com/navalny_cherepovec": {
-                    "attending": 515, 
-                    "invited": 241, 
+                    "attending": 514, 
+                    "invited": 240, 
                     "maybe": 315
                 }
             }
@@ -1740,5 +1740,5 @@
             "url": "vk.com/navalny_kms"
         }
     ], 
-    "updated_time": "2017-04-11T07:30:03.066244"
+    "updated_time": "2017-04-11T08:02:05.014081"
 }
