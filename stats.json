@@ -1,10 +1,10 @@
 {
     "stats_total": {
         "total_cities": 102, 
-        "attending": 3973, 
+        "attending": 3972, 
         "invited": 10250, 
         "total_cities_without_stats": 98, 
-        "maybe": 2773
+        "maybe": 2772
     }, 
     "stats_by_city": {
         "\u0418\u0432\u0430\u043d\u043e\u0432\u043e": {
@@ -380,7 +380,7 @@
                 "vk.com/event142708716": {
                     "attending": 710, 
                     "invited": 135, 
-                    "maybe": 303
+                    "maybe": 302
                 }
             }
         }, 
@@ -625,12 +625,12 @@
                 "facebook.com/events/1447758088577309/"
             ], 
             "counters": {
-                "facebook.com/events/1447758088577309/": {
+                "vk.com/event142588458": {
                     "attending": 0, 
                     "invited": 0, 
                     "maybe": 0
                 }, 
-                "vk.com/event142588458": {
+                "facebook.com/events/1447758088577309/": {
                     "attending": 0, 
                     "invited": 0, 
                     "maybe": 0
@@ -852,7 +852,7 @@
             ], 
             "counters": {
                 "vk.com/dimon_tagil": {
-                    "attending": 538, 
+                    "attending": 537, 
                     "invited": 60, 
                     "maybe": 327
                 }
@@ -1525,11 +1525,11 @@
         }, 
         {
             "city_name": "\u0418\u0440\u043a\u0443\u0442\u0441\u043a", 
-            "url": "facebook.com/events/1447758088577309/"
+            "url": "vk.com/event142588458"
         }, 
         {
             "city_name": "\u0418\u0440\u043a\u0443\u0442\u0441\u043a", 
-            "url": "vk.com/event142588458"
+            "url": "facebook.com/events/1447758088577309/"
         }, 
         {
             "city_name": "\u0423\u043b\u0430\u043d-\u0423\u0434\u044d", 
@@ -1740,5 +1740,5 @@
             "url": "vk.com/navalny_kms"
         }
     ], 
-    "updated_time": "2017-04-12T05:30:02.731888"
+    "updated_time": "2017-04-12T06:02:04.409028"
 }
