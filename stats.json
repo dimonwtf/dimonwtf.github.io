@@ -2,7 +2,7 @@
     "stats_total": {
         "total_cities": 102, 
         "attending": 69876, 
-        "invited": 20451, 
+        "invited": 20452, 
         "total_cities_without_stats": 58, 
         "maybe": 34567
     }, 
@@ -470,7 +470,7 @@
             "counters": {
                 "vk.com/dimon_chel": {
                     "attending": 2600, 
-                    "invited": 302, 
+                    "invited": 308, 
                     "maybe": 1300
                 }
             }
@@ -535,7 +535,7 @@
             "counters": {
                 "vk.com/dimon_krd": {
                     "attending": 1700, 
-                    "invited": 342, 
+                    "invited": 340, 
                     "maybe": 921
                 }
             }
@@ -761,7 +761,7 @@
             ], 
             "counters": {
                 "vk.com/dimon_chuv": {
-                    "attending": 853, 
+                    "attending": 854, 
                     "invited": 155, 
                     "maybe": 569
                 }
@@ -891,7 +891,7 @@
             ], 
             "counters": {
                 "vk.com/club142613767": {
-                    "attending": 759, 
+                    "attending": 758, 
                     "invited": 104, 
                     "maybe": 414
                 }
@@ -931,7 +931,7 @@
             "counters": {
                 "vk.com/navalny_cherepovec": {
                     "attending": 511, 
-                    "invited": 235, 
+                    "invited": 234, 
                     "maybe": 312
                 }
             }
@@ -1087,7 +1087,7 @@
             "counters": {
                 "vk.com/club142599120": {
                     "attending": 361, 
-                    "invited": 42, 
+                    "invited": 41, 
                     "maybe": 196
                 }
             }
@@ -1114,7 +1114,7 @@
             "counters": {
                 "vk.com/dimon_moscow": {
                     "attending": 7600, 
-                    "invited": 867, 
+                    "invited": 866, 
                     "maybe": 2700
                 }, 
                 "facebook.com/events/1860803440858828/": {
@@ -1580,5 +1580,5 @@
             "url": "vk.com/navalny_kms"
         }
     ], 
-    "updated_time": "2017-04-16T22:30:03.186701"
+    "updated_time": "2017-04-16T23:02:04.971501"
 }
