@@ -1,8 +1,8 @@
 {
     "stats_total": {
         "total_cities": 102, 
-        "attending": 69975, 
-        "invited": 20604, 
+        "attending": 69979, 
+        "invited": 20618, 
         "total_cities_without_stats": 58, 
         "maybe": 34555
     }, 
@@ -79,9 +79,9 @@
             ], 
             "counters": {
                 "vk.com/event141385841": {
-                    "attending": 281, 
+                    "attending": 283, 
                     "invited": 36, 
-                    "maybe": 146
+                    "maybe": 145
                 }
             }
         }, 
@@ -107,7 +107,7 @@
                 "vk.com/dimon_vdk": {
                     "attending": 1100, 
                     "invited": 233, 
-                    "maybe": 614
+                    "maybe": 613
                 }
             }
         }, 
@@ -145,7 +145,7 @@
             "counters": {
                 "vk.com/omsk_trebuet_otvet": {
                     "attending": 1900, 
-                    "invited": 286, 
+                    "invited": 285, 
                     "maybe": 957
                 }
             }
@@ -176,9 +176,9 @@
                     "maybe": 0
                 }, 
                 "vk.com/dimon_psk": {
-                    "attending": 251, 
-                    "invited": 58, 
-                    "maybe": 153
+                    "attending": 252, 
+                    "invited": 55, 
+                    "maybe": 155
                 }
             }
         }, 
@@ -482,9 +482,9 @@
             ], 
             "counters": {
                 "vk.com/dimon_khvsk": {
-                    "attending": 863, 
-                    "invited": 227, 
-                    "maybe": 496
+                    "attending": 862, 
+                    "invited": 225, 
+                    "maybe": 497
                 }
             }
         }, 
@@ -496,8 +496,8 @@
             "counters": {
                 "vk.com/dimon_srtv": {
                     "attending": 1500, 
-                    "invited": 139, 
-                    "maybe": 686
+                    "invited": 144, 
+                    "maybe": 685
                 }
             }
         }, 
@@ -574,7 +574,7 @@
             "counters": {
                 "vk.com/dimon_vlg": {
                     "attending": 1400, 
-                    "invited": 731, 
+                    "invited": 732, 
                     "maybe": 837
                 }
             }
@@ -644,8 +644,8 @@
             ], 
             "counters": {
                 "vk.com/protivvorovuu": {
-                    "attending": 470, 
-                    "invited": 236, 
+                    "attending": 471, 
+                    "invited": 235, 
                     "maybe": 297
                 }
             }
@@ -1047,7 +1047,7 @@
             ], 
             "counters": {
                 "vk.com/dimon_vld": {
-                    "attending": 595, 
+                    "attending": 596, 
                     "invited": 197, 
                     "maybe": 336
                 }
@@ -1171,7 +1171,7 @@
             "counters": {
                 "vk.com/dimon_krsk": {
                     "attending": 2200, 
-                    "invited": 397, 
+                    "invited": 400, 
                     "maybe": 1100
                 }
             }
@@ -1223,7 +1223,7 @@
             "counters": {
                 "vk.com/dimon_kzn": {
                     "attending": 1900, 
-                    "invited": 237, 
+                    "invited": 247, 
                     "maybe": 1000
                 }
             }
@@ -1301,7 +1301,7 @@
             "counters": {
                 "vk.com/dimon_barnaul": {
                     "attending": 2800, 
-                    "invited": 151, 
+                    "invited": 153, 
                     "maybe": 650
                 }
             }
@@ -1580,5 +1580,5 @@
             "url": "vk.com/navalny_kms"
         }
     ], 
-    "updated_time": "2017-04-18T12:30:03.131455"
+    "updated_time": "2017-04-18T13:02:05.174070"
 }
