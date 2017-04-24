@@ -1,8 +1,8 @@
 {
     "stats_total": {
         "total_cities": 61, 
-        "attending": 74326, 
-        "invited": 21510, 
+        "attending": 74327, 
+        "invited": 21608, 
         "total_cities_without_stats": 10, 
         "maybe": 35489
     }, 
@@ -14,7 +14,7 @@
             ], 
             "counters": {
                 "vk.com/dimon_iv": {
-                    "attending": 807, 
+                    "attending": 808, 
                     "invited": 185, 
                     "maybe": 488
                 }
@@ -171,7 +171,7 @@
             "counters": {
                 "vk.com/dimon_chel": {
                     "attending": 2700, 
-                    "invited": 366, 
+                    "invited": 365, 
                     "maybe": 1300
                 }
             }
@@ -315,7 +315,7 @@
                 "vk.com/dimon_khvsk": {
                     "attending": 890, 
                     "invited": 212, 
-                    "maybe": 498
+                    "maybe": 497
                 }
             }
         }, 
@@ -406,7 +406,7 @@
                 "vk.com/dimon_krd": {
                     "attending": 1800, 
                     "invited": 534, 
-                    "maybe": 978
+                    "maybe": 979
                 }
             }
         }, 
@@ -691,7 +691,7 @@
             "counters": {
                 "vk.com/dimon_saintp": {
                     "attending": 11000, 
-                    "invited": 1400, 
+                    "invited": 1500, 
                     "maybe": 4800
                 }
             }
@@ -717,7 +717,7 @@
             "counters": {
                 "vk.com/navalny_cherepovec": {
                     "attending": 554, 
-                    "invited": 288, 
+                    "invited": 287, 
                     "maybe": 333
                 }
             }
@@ -843,5 +843,5 @@
             "url": "vk.com/club142601056"
         }
     ], 
-    "updated_time": "2017-04-23T23:30:02.971346"
+    "updated_time": "2017-04-24T00:01:21.271430"
 }
