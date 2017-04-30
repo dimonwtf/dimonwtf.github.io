@@ -1,8 +1,8 @@
 {
     "stats_total": {
         "total_cities": 61, 
-        "attending": 77080, 
-        "invited": 22364, 
+        "attending": 77181, 
+        "invited": 22361, 
         "total_cities_without_stats": 11, 
         "maybe": 36850
     }, 
@@ -68,7 +68,7 @@
                 "vk.com/dimon_tmn": {
                     "attending": 1200, 
                     "invited": 308, 
-                    "maybe": 685
+                    "maybe": 684
                 }
             }
         }, 
@@ -120,7 +120,7 @@
                 "vk.com/dimon_tagil": {
                     "attending": 552, 
                     "invited": 80, 
-                    "maybe": 336
+                    "maybe": 337
                 }
             }
         }, 
@@ -274,7 +274,7 @@
             ], 
             "counters": {
                 "vk.com/dimon_vld": {
-                    "attending": 648, 
+                    "attending": 649, 
                     "invited": 202, 
                     "maybe": 363
                 }
@@ -469,7 +469,7 @@
             ], 
             "counters": {
                 "vk.com/dimon_moscow": {
-                    "attending": 9000, 
+                    "attending": 9100, 
                     "invited": 1100, 
                     "maybe": 3200
                 }
@@ -535,7 +535,7 @@
             "counters": {
                 "vk.com/dimon_krsk": {
                     "attending": 2400, 
-                    "invited": 433, 
+                    "invited": 431, 
                     "maybe": 1100
                 }
             }
@@ -743,7 +743,7 @@
             "counters": {
                 "vk.com/dimon_barnaul": {
                     "attending": 2900, 
-                    "invited": 174, 
+                    "invited": 173, 
                     "maybe": 677
                 }
             }
@@ -847,5 +847,5 @@
             "url": "vk.com/club142601056"
         }
     ], 
-    "updated_time": "2017-04-30T22:30:02.558361"
+    "updated_time": "2017-04-30T23:01:18.547078"
 }
