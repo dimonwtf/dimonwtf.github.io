@@ -1,10 +1,10 @@
 {
     "stats_total": {
         "total_cities": 61, 
-        "attending": 77061, 
-        "invited": 22475, 
+        "attending": 77065, 
+        "invited": 22483, 
         "total_cities_without_stats": 11, 
-        "maybe": 36732
+        "maybe": 36731
     }, 
     "stats_by_city": {
         "\u0418\u0432\u0430\u043d\u043e\u0432\u043e": {
@@ -132,7 +132,7 @@
             "counters": {
                 "vk.com/dimon_ekat": {
                     "attending": 3600, 
-                    "invited": 413, 
+                    "invited": 418, 
                     "maybe": 1700
                 }
             }
@@ -211,7 +211,7 @@
                 "vk.com/dimon_vdk": {
                     "attending": 1200, 
                     "invited": 219, 
-                    "maybe": 638
+                    "maybe": 639
                 }
             }
         }, 
@@ -237,7 +237,7 @@
                 "vk.com/dimon_srtv": {
                     "attending": 1600, 
                     "invited": 144, 
-                    "maybe": 720
+                    "maybe": 719
                 }
             }
         }, 
@@ -248,7 +248,7 @@
             ], 
             "counters": {
                 "vk.com/dimon_uln": {
-                    "attending": 97, 
+                    "attending": 98, 
                     "invited": 13, 
                     "maybe": 43
                 }
@@ -315,7 +315,7 @@
                 "vk.com/dimon_khvsk": {
                     "attending": 945, 
                     "invited": 223, 
-                    "maybe": 519
+                    "maybe": 518
                 }
             }
         }, 
@@ -378,7 +378,7 @@
             ], 
             "counters": {
                 "vk.com/dimon12june": {
-                    "attending": 143, 
+                    "attending": 144, 
                     "invited": 17, 
                     "maybe": 56
                 }
@@ -405,7 +405,7 @@
             "counters": {
                 "vk.com/dimon_krd": {
                     "attending": 1900, 
-                    "invited": 601, 
+                    "invited": 599, 
                     "maybe": 1000
                 }
             }
@@ -417,8 +417,8 @@
             ], 
             "counters": {
                 "vk.com/event142618238": {
-                    "attending": 537, 
-                    "invited": 65, 
+                    "attending": 538, 
+                    "invited": 66, 
                     "maybe": 272
                 }
             }
@@ -483,7 +483,7 @@
             "counters": {
                 "vk.com/dimon_vrnzh": {
                     "attending": 1900, 
-                    "invited": 894, 
+                    "invited": 896, 
                     "maybe": 1000
                 }
             }
@@ -535,7 +535,7 @@
             "counters": {
                 "vk.com/dimon_krsk": {
                     "attending": 2400, 
-                    "invited": 432, 
+                    "invited": 431, 
                     "maybe": 1100
                 }
             }
@@ -587,7 +587,7 @@
             "counters": {
                 "vk.com/dimon_kzn": {
                     "attending": 2100, 
-                    "invited": 325, 
+                    "invited": 324, 
                     "maybe": 1100
                 }
             }
@@ -769,7 +769,7 @@
             "counters": {
                 "vk.com/dimon_nn": {
                     "attending": 2700, 
-                    "invited": 425, 
+                    "invited": 429, 
                     "maybe": 1200
                 }
             }
@@ -781,7 +781,7 @@
             ], 
             "counters": {
                 "vk.com/kirov12june": {
-                    "attending": 278, 
+                    "attending": 279, 
                     "invited": 82, 
                     "maybe": 100
                 }
@@ -847,5 +847,5 @@
             "url": "vk.com/club142601056"
         }
     ], 
-    "updated_time": "2017-04-30T06:30:02.578409"
+    "updated_time": "2017-04-30T07:01:19.249896"
 }
