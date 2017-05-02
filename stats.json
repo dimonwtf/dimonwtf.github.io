@@ -1,8 +1,8 @@
 {
     "stats_total": {
         "total_cities": 61, 
-        "attending": 77679, 
-        "invited": 22463, 
+        "attending": 77680, 
+        "invited": 22461, 
         "total_cities_without_stats": 11, 
         "maybe": 36913
     }, 
@@ -144,7 +144,7 @@
             ], 
             "counters": {
                 "vk.com/meeting_kld": {
-                    "attending": 375, 
+                    "attending": 376, 
                     "invited": 105, 
                     "maybe": 138
                 }
@@ -198,7 +198,7 @@
                 "vk.com/dimon_rnd": {
                     "attending": 2000, 
                     "invited": 209, 
-                    "maybe": 968
+                    "maybe": 967
                 }
             }
         }, 
@@ -366,7 +366,7 @@
             "counters": {
                 "vk.com/club142599120": {
                     "attending": 395, 
-                    "invited": 43, 
+                    "invited": 42, 
                     "maybe": 215
                 }
             }
@@ -405,7 +405,7 @@
             "counters": {
                 "vk.com/dimon_krd": {
                     "attending": 1900, 
-                    "invited": 594, 
+                    "invited": 593, 
                     "maybe": 1000
                 }
             }
@@ -418,8 +418,8 @@
             "counters": {
                 "vk.com/event142618238": {
                     "attending": 554, 
-                    "invited": 57, 
-                    "maybe": 275
+                    "invited": 56, 
+                    "maybe": 276
                 }
             }
         }, 
@@ -665,7 +665,7 @@
             "counters": {
                 "vk.com/navalny_yar_meeting": {
                     "attending": 989, 
-                    "invited": 155, 
+                    "invited": 156, 
                     "maybe": 529
                 }
             }
@@ -847,5 +847,5 @@
             "url": "vk.com/club142601056"
         }
     ], 
-    "updated_time": "2017-05-02T19:30:03.180315"
+    "updated_time": "2017-05-02T20:01:17.812694"
 }
