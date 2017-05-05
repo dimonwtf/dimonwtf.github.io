@@ -1,10 +1,10 @@
 {
     "stats_total": {
         "total_cities": 61, 
-        "attending": 88455, 
-        "invited": 24713, 
+        "attending": 88457, 
+        "invited": 24715, 
         "total_cities_without_stats": 10, 
-        "maybe": 41569
+        "maybe": 41572
     }, 
     "stats_by_city": {
         "\u0418\u0432\u0430\u043d\u043e\u0432\u043e": {
@@ -14,7 +14,7 @@
             ], 
             "counters": {
                 "vk.com/dimon_iv": {
-                    "attending": 982, 
+                    "attending": 981, 
                     "invited": 242, 
                     "maybe": 582
                 }
@@ -40,7 +40,7 @@
             ], 
             "counters": {
                 "vk.com/dimon_kemerovo": {
-                    "attending": 872, 
+                    "attending": 873, 
                     "invited": 158, 
                     "maybe": 409
                 }
@@ -197,7 +197,7 @@
             "counters": {
                 "vk.com/dimon_rnd": {
                     "attending": 2200, 
-                    "invited": 269, 
+                    "invited": 268, 
                     "maybe": 1000
                 }
             }
@@ -210,8 +210,8 @@
             "counters": {
                 "vk.com/dimon_vdk": {
                     "attending": 1400, 
-                    "invited": 247, 
-                    "maybe": 703
+                    "invited": 246, 
+                    "maybe": 704
                 }
             }
         }, 
@@ -236,7 +236,7 @@
             "counters": {
                 "vk.com/dimon_srtv": {
                     "attending": 1800, 
-                    "invited": 166, 
+                    "invited": 167, 
                     "maybe": 809
                 }
             }
@@ -274,8 +274,8 @@
             ], 
             "counters": {
                 "vk.com/dimon_vld": {
-                    "attending": 733, 
-                    "invited": 206, 
+                    "attending": 734, 
+                    "invited": 212, 
                     "maybe": 399
                 }
             }
@@ -314,8 +314,8 @@
             "counters": {
                 "vk.com/dimon_khvsk": {
                     "attending": 1000, 
-                    "invited": 252, 
-                    "maybe": 573
+                    "invited": 250, 
+                    "maybe": 575
                 }
             }
         }, 
@@ -340,7 +340,7 @@
             "counters": {
                 "vk.com/dimon_ast": {
                     "attending": 676, 
-                    "invited": 135, 
+                    "invited": 134, 
                     "maybe": 295
                 }
             }
@@ -392,7 +392,7 @@
             "counters": {
                 "vk.com/dimon_bashkiria": {
                     "attending": 2200, 
-                    "invited": 404, 
+                    "invited": 403, 
                     "maybe": 1200
                 }
             }
@@ -405,7 +405,7 @@
             "counters": {
                 "vk.com/dimon_krd": {
                     "attending": 2100, 
-                    "invited": 700, 
+                    "invited": 697, 
                     "maybe": 1100
                 }
             }
@@ -418,7 +418,7 @@
             "counters": {
                 "vk.com/event142618238": {
                     "attending": 660, 
-                    "invited": 99, 
+                    "invited": 98, 
                     "maybe": 324
                 }
             }
@@ -457,7 +457,7 @@
             "counters": {
                 "vk.com/dimon_samara": {
                     "attending": 2300, 
-                    "invited": 382, 
+                    "invited": 388, 
                     "maybe": 1200
                 }
             }
@@ -625,7 +625,7 @@
             ], 
             "counters": {
                 "vk.com/club145451817": {
-                    "attending": 52, 
+                    "attending": 53, 
                     "invited": 3, 
                     "maybe": 22
                 }
@@ -769,7 +769,7 @@
             "counters": {
                 "vk.com/dimon_nn": {
                     "attending": 3100, 
-                    "invited": 547, 
+                    "invited": 546, 
                     "maybe": 1400
                 }
             }
@@ -843,5 +843,5 @@
             "url": "vk.com/club142601056"
         }
     ], 
-    "updated_time": "2017-05-05T22:30:02.774480"
+    "updated_time": "2017-05-05T23:01:18.932053"
 }
