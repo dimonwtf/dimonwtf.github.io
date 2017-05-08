@@ -1,10 +1,10 @@
 {
     "stats_total": {
         "total_cities": 61, 
-        "attending": 88500, 
-        "invited": 24847, 
-        "total_cities_without_stats": 11, 
-        "maybe": 41551
+        "attending": 89399, 
+        "invited": 25028, 
+        "total_cities_without_stats": 10, 
+        "maybe": 41966
     }, 
     "stats_by_city": {
         "\u0418\u0432\u0430\u043d\u043e\u0432\u043e": {
@@ -40,9 +40,9 @@
             ], 
             "counters": {
                 "vk.com/dimon_kemerovo": {
-                    "attending": 0, 
-                    "invited": 0, 
-                    "maybe": 0
+                    "attending": 897, 
+                    "invited": 181, 
+                    "maybe": 417
                 }
             }
         }, 
@@ -210,8 +210,8 @@
             "counters": {
                 "vk.com/dimon_vdk": {
                     "attending": 1400, 
-                    "invited": 296, 
-                    "maybe": 724
+                    "invited": 293, 
+                    "maybe": 723
                 }
             }
         }, 
@@ -248,8 +248,8 @@
             ], 
             "counters": {
                 "vk.com/dimon_uln": {
-                    "attending": 250, 
-                    "invited": 38, 
+                    "attending": 251, 
+                    "invited": 41, 
                     "maybe": 130
                 }
             }
@@ -612,7 +612,7 @@
             ], 
             "counters": {
                 "vk.com/dimon_biysk": {
-                    "attending": 396, 
+                    "attending": 397, 
                     "invited": 11, 
                     "maybe": 149
                 }
@@ -796,16 +796,12 @@
                 "vk.com/dimon_chuv": {
                     "attending": 1000, 
                     "invited": 244, 
-                    "maybe": 690
+                    "maybe": 689
                 }
             }
         }
     }, 
     "cities_without_stats": [
-        {
-            "city_name": "\u041a\u0435\u043c\u0435\u0440\u043e\u0432\u043e", 
-            "url": "vk.com/dimon_kemerovo"
-        }, 
         {
             "city_name": "\u0410\u0440\u043c\u0430\u0432\u0438\u0440", 
             "url": "vk.com/club8869990"
@@ -847,5 +843,5 @@
             "url": "vk.com/club142601056"
         }
     ], 
-    "updated_time": "2017-05-08T00:30:02.961314"
+    "updated_time": "2017-05-08T01:01:20.207459"
 }
