@@ -1,10 +1,10 @@
 {
     "stats_total": {
         "total_cities": 61, 
-        "attending": 90265, 
-        "invited": 24955, 
+        "attending": 90278, 
+        "invited": 24982, 
         "total_cities_without_stats": 10, 
-        "maybe": 42440
+        "maybe": 42439
     }, 
     "stats_by_city": {
         "\u0418\u0432\u0430\u043d\u043e\u0432\u043e": {
@@ -40,9 +40,9 @@
             ], 
             "counters": {
                 "vk.com/dimon_kemerovo": {
-                    "attending": 901, 
+                    "attending": 903, 
                     "invited": 167, 
-                    "maybe": 419
+                    "maybe": 417
                 }
             }
         }, 
@@ -118,8 +118,8 @@
             ], 
             "counters": {
                 "vk.com/dimon_tagil": {
-                    "attending": 604, 
-                    "invited": 128, 
+                    "attending": 605, 
+                    "invited": 127, 
                     "maybe": 370
                 }
             }
@@ -132,7 +132,7 @@
             "counters": {
                 "vk.com/dimon_ekat": {
                     "attending": 4200, 
-                    "invited": 468, 
+                    "invited": 467, 
                     "maybe": 1900
                 }
             }
@@ -210,8 +210,8 @@
             "counters": {
                 "vk.com/dimon_vdk": {
                     "attending": 1400, 
-                    "invited": 317, 
-                    "maybe": 722
+                    "invited": 316, 
+                    "maybe": 720
                 }
             }
         }, 
@@ -237,7 +237,7 @@
                 "vk.com/dimon_srtv": {
                     "attending": 1800, 
                     "invited": 167, 
-                    "maybe": 819
+                    "maybe": 820
                 }
             }
         }, 
@@ -352,9 +352,9 @@
             ], 
             "counters": {
                 "vk.com/protivvorovuu": {
-                    "attending": 971, 
+                    "attending": 980, 
                     "invited": 297, 
-                    "maybe": 402
+                    "maybe": 403
                 }
             }
         }, 
@@ -405,7 +405,7 @@
             "counters": {
                 "vk.com/dimon_krd": {
                     "attending": 2100, 
-                    "invited": 719, 
+                    "invited": 718, 
                     "maybe": 1200
                 }
             }
@@ -418,7 +418,7 @@
             "counters": {
                 "vk.com/event142618238": {
                     "attending": 689, 
-                    "invited": 204, 
+                    "invited": 202, 
                     "maybe": 350
                 }
             }
@@ -535,7 +535,7 @@
             "counters": {
                 "vk.com/dimon_krsk": {
                     "attending": 2800, 
-                    "invited": 507, 
+                    "invited": 540, 
                     "maybe": 1300
                 }
             }
@@ -638,7 +638,7 @@
             ], 
             "counters": {
                 "vk.com/event142596129": {
-                    "attending": 848, 
+                    "attending": 849, 
                     "invited": 127, 
                     "maybe": 473
                 }
@@ -652,8 +652,8 @@
             "counters": {
                 "vk.com/dimon_tomsk": {
                     "attending": 1600, 
-                    "invited": 154, 
-                    "maybe": 720
+                    "invited": 155, 
+                    "maybe": 721
                 }
             }
         }, 
@@ -678,7 +678,7 @@
             "counters": {
                 "vk.com/dimon_nsk": {
                     "attending": 4000, 
-                    "invited": 598, 
+                    "invited": 597, 
                     "maybe": 1600
                 }
             }
@@ -843,5 +843,5 @@
             "url": "vk.com/club142601056"
         }
     ], 
-    "updated_time": "2017-05-09T03:30:02.750512"
+    "updated_time": "2017-05-09T04:01:18.782291"
 }
