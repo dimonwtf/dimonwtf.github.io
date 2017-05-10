@@ -2,9 +2,9 @@
     "stats_total": {
         "total_cities": 61, 
         "attending": 90743, 
-        "invited": 24973, 
+        "invited": 24967, 
         "total_cities_without_stats": 10, 
-        "maybe": 42604
+        "maybe": 42605
     }, 
     "stats_by_city": {
         "\u0418\u0432\u0430\u043d\u043e\u0432\u043e": {
@@ -68,7 +68,7 @@
                 "vk.com/dimon_tmn": {
                     "attending": 1500, 
                     "invited": 330, 
-                    "maybe": 767
+                    "maybe": 766
                 }
             }
         }, 
@@ -171,7 +171,7 @@
             "counters": {
                 "vk.com/dimon_chel": {
                     "attending": 3300, 
-                    "invited": 540, 
+                    "invited": 537, 
                     "maybe": 1500
                 }
             }
@@ -288,7 +288,7 @@
             "counters": {
                 "vk.com/omsk_trebuet_otvet": {
                     "attending": 2400, 
-                    "invited": 364, 
+                    "invited": 363, 
                     "maybe": 1100
                 }
             }
@@ -704,7 +704,7 @@
             "counters": {
                 "vk.com/dimon_irk38": {
                     "attending": 1800, 
-                    "invited": 237, 
+                    "invited": 236, 
                     "maybe": 803
                 }
             }
@@ -718,7 +718,7 @@
                 "vk.com/navalny_cherepovec": {
                     "attending": 662, 
                     "invited": 276, 
-                    "maybe": 374
+                    "maybe": 375
                 }
             }
         }, 
@@ -795,8 +795,8 @@
             "counters": {
                 "vk.com/dimon_chuv": {
                     "attending": 1100, 
-                    "invited": 249, 
-                    "maybe": 698
+                    "invited": 248, 
+                    "maybe": 699
                 }
             }
         }
@@ -843,5 +843,5 @@
             "url": "vk.com/club142601056"
         }
     ], 
-    "updated_time": "2017-05-10T02:30:02.506270"
+    "updated_time": "2017-05-10T03:01:18.961090"
 }
