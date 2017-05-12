@@ -2,7 +2,7 @@
     "stats_total": {
         "total_cities": 61, 
         "attending": 92315, 
-        "invited": 25066, 
+        "invited": 25067, 
         "total_cities_without_stats": 10, 
         "maybe": 43200
     }, 
@@ -41,7 +41,7 @@
             "counters": {
                 "vk.com/dimon_kemerovo": {
                     "attending": 925, 
-                    "invited": 189, 
+                    "invited": 187, 
                     "maybe": 428
                 }
             }
@@ -144,7 +144,7 @@
             ], 
             "counters": {
                 "vk.com/meeting_kld": {
-                    "attending": 588, 
+                    "attending": 587, 
                     "invited": 190, 
                     "maybe": 231
                 }
@@ -288,7 +288,7 @@
             "counters": {
                 "vk.com/omsk_trebuet_otvet": {
                     "attending": 2400, 
-                    "invited": 387, 
+                    "invited": 386, 
                     "maybe": 1100
                 }
             }
@@ -314,7 +314,7 @@
             "counters": {
                 "vk.com/dimon_khvsk": {
                     "attending": 1100, 
-                    "invited": 241, 
+                    "invited": 246, 
                     "maybe": 589
                 }
             }
@@ -625,7 +625,7 @@
             ], 
             "counters": {
                 "vk.com/club145451817": {
-                    "attending": 59, 
+                    "attending": 60, 
                     "invited": 3, 
                     "maybe": 25
                 }
@@ -652,7 +652,7 @@
             "counters": {
                 "vk.com/dimon_tomsk": {
                     "attending": 1600, 
-                    "invited": 159, 
+                    "invited": 158, 
                     "maybe": 735
                 }
             }
@@ -843,5 +843,5 @@
             "url": "vk.com/club142601056"
         }
     ], 
-    "updated_time": "2017-05-11T23:30:02.754794"
+    "updated_time": "2017-05-12T00:01:16.968781"
 }
