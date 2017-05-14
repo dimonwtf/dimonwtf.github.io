@@ -2,9 +2,9 @@
     "stats_total": {
         "total_cities": 61, 
         "attending": 92572, 
-        "invited": 25276, 
+        "invited": 25271, 
         "total_cities_without_stats": 10, 
-        "maybe": 43348
+        "maybe": 43349
     }, 
     "stats_by_city": {
         "\u0418\u0432\u0430\u043d\u043e\u0432\u043e": {
@@ -354,7 +354,7 @@
                 "vk.com/protivvorovuu": {
                     "attending": 936, 
                     "invited": 307, 
-                    "maybe": 413
+                    "maybe": 414
                 }
             }
         }, 
@@ -587,7 +587,7 @@
             "counters": {
                 "vk.com/dimon_kzn": {
                     "attending": 2500, 
-                    "invited": 406, 
+                    "invited": 404, 
                     "maybe": 1300
                 }
             }
@@ -678,7 +678,7 @@
             "counters": {
                 "vk.com/dimon_nsk": {
                     "attending": 4000, 
-                    "invited": 620, 
+                    "invited": 617, 
                     "maybe": 1600
                 }
             }
@@ -843,5 +843,5 @@
             "url": "vk.com/club142601056"
         }
     ], 
-    "updated_time": "2017-05-14T00:30:03.167360"
+    "updated_time": "2017-05-14T01:01:23.209863"
 }
