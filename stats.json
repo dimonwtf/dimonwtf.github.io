@@ -1,10 +1,10 @@
 {
     "stats_total": {
         "total_cities": 61, 
-        "attending": 92994, 
-        "invited": 25212, 
+        "attending": 92995, 
+        "invited": 25209, 
         "total_cities_without_stats": 10, 
-        "maybe": 43539
+        "maybe": 43542
     }, 
     "stats_by_city": {
         "\u0418\u0432\u0430\u043d\u043e\u0432\u043e": {
@@ -263,7 +263,7 @@
                 "vk.com/event141385841": {
                     "attending": 439, 
                     "invited": 67, 
-                    "maybe": 225
+                    "maybe": 226
                 }
             }
         }, 
@@ -341,7 +341,7 @@
                 "vk.com/dimon_ast": {
                     "attending": 705, 
                     "invited": 130, 
-                    "maybe": 312
+                    "maybe": 311
                 }
             }
         }, 
@@ -405,7 +405,7 @@
             "counters": {
                 "vk.com/dimon_krd": {
                     "attending": 2200, 
-                    "invited": 736, 
+                    "invited": 735, 
                     "maybe": 1200
                 }
             }
@@ -418,8 +418,8 @@
             "counters": {
                 "vk.com/event142618238": {
                     "attending": 710, 
-                    "invited": 223, 
-                    "maybe": 362
+                    "invited": 221, 
+                    "maybe": 363
                 }
             }
         }, 
@@ -627,7 +627,7 @@
                 "vk.com/club145451817": {
                     "attending": 62, 
                     "invited": 3, 
-                    "maybe": 27
+                    "maybe": 28
                 }
             }
         }, 
@@ -666,7 +666,7 @@
                 "vk.com/navalny_yar_meeting": {
                     "attending": 1100, 
                     "invited": 176, 
-                    "maybe": 628
+                    "maybe": 629
                 }
             }
         }, 
@@ -716,7 +716,7 @@
             ], 
             "counters": {
                 "vk.com/navalny_cherepovec": {
-                    "attending": 671, 
+                    "attending": 672, 
                     "invited": 269, 
                     "maybe": 382
                 }
@@ -843,5 +843,5 @@
             "url": "vk.com/club142601056"
         }
     ], 
-    "updated_time": "2017-05-15T22:30:02.335545"
+    "updated_time": "2017-05-15T23:01:19.220036"
 }
