@@ -2,9 +2,9 @@
     "stats_total": {
         "total_cities": 61, 
         "attending": 92621, 
-        "invited": 25215, 
+        "invited": 25213, 
         "total_cities_without_stats": 10, 
-        "maybe": 43504
+        "maybe": 43506
     }, 
     "stats_by_city": {
         "\u0418\u0432\u0430\u043d\u043e\u0432\u043e": {
@@ -53,7 +53,7 @@
             ], 
             "counters": {
                 "vk.com/miting.nvkz": {
-                    "attending": 700, 
+                    "attending": 699, 
                     "invited": 92, 
                     "maybe": 289
                 }
@@ -119,7 +119,7 @@
             "counters": {
                 "vk.com/dimon_tagil": {
                     "attending": 615, 
-                    "invited": 112, 
+                    "invited": 111, 
                     "maybe": 368
                 }
             }
@@ -315,7 +315,7 @@
                 "vk.com/dimon_khvsk": {
                     "attending": 1100, 
                     "invited": 260, 
-                    "maybe": 592
+                    "maybe": 593
                 }
             }
         }, 
@@ -352,7 +352,7 @@
             ], 
             "counters": {
                 "vk.com/protivvorovuu": {
-                    "attending": 939, 
+                    "attending": 940, 
                     "invited": 302, 
                     "maybe": 416
                 }
@@ -678,7 +678,7 @@
             "counters": {
                 "vk.com/dimon_nsk": {
                     "attending": 4000, 
-                    "invited": 607, 
+                    "invited": 606, 
                     "maybe": 1600
                 }
             }
@@ -705,7 +705,7 @@
                 "vk.com/dimon_irk38": {
                     "attending": 1800, 
                     "invited": 242, 
-                    "maybe": 830
+                    "maybe": 831
                 }
             }
         }, 
@@ -843,5 +843,5 @@
             "url": "vk.com/club142601056"
         }
     ], 
-    "updated_time": "2017-05-15T01:30:02.779102"
+    "updated_time": "2017-05-15T02:01:19.380756"
 }
