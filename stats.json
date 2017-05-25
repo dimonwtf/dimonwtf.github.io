@@ -1,10 +1,10 @@
 {
     "stats_total": {
         "total_cities": 197, 
-        "attending": 114430, 
-        "invited": 31110, 
+        "attending": 114431, 
+        "invited": 31109, 
         "total_cities_without_stats": 28, 
-        "maybe": 53916
+        "maybe": 53917
     }, 
     "stats_by_city": {
         "\u0418\u0432\u0430\u043d\u043e\u0432\u043e": {
@@ -1024,7 +1024,7 @@
                 "vk.com/dimon_drb": {
                     "attending": 31, 
                     "invited": 7, 
-                    "maybe": 15
+                    "maybe": 16
                 }
             }
         }, 
@@ -1282,7 +1282,7 @@
             ], 
             "counters": {
                 "vk.com/vorkuta_no_korruption": {
-                    "attending": 66, 
+                    "attending": 67, 
                     "invited": 8, 
                     "maybe": 16
                 }
@@ -2245,7 +2245,7 @@
             "counters": {
                 "vk.com/dimon_vrnzh": {
                     "attending": 2400, 
-                    "invited": 993, 
+                    "invited": 992, 
                     "maybe": 1300
                 }
             }
@@ -2686,5 +2686,5 @@
             "url": "vk.com/club142601056"
         }
     ], 
-    "updated_time": "2017-05-25T17:34:01.191626"
+    "updated_time": "2017-05-25T18:00:08.608186"
 }
