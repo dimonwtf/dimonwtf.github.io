@@ -1,10 +1,10 @@
 {
     "stats_total": {
         "total_cities": 197, 
-        "attending": 115211, 
+        "attending": 115212, 
         "invited": 31354, 
         "total_cities_without_stats": 28, 
-        "maybe": 54382
+        "maybe": 54383
     }, 
     "stats_by_city": {
         "\u0418\u0432\u0430\u043d\u043e\u0432\u043e": {
@@ -1282,7 +1282,7 @@
             ], 
             "counters": {
                 "vk.com/vorkuta_no_korruption": {
-                    "attending": 68, 
+                    "attending": 69, 
                     "invited": 8, 
                     "maybe": 17
                 }
@@ -1739,7 +1739,7 @@
                 "vk.com/navalnyvolgodonsk": {
                     "attending": 71, 
                     "invited": 4, 
-                    "maybe": 23
+                    "maybe": 24
                 }
             }
         }, 
@@ -2686,5 +2686,5 @@
             "url": "vk.com/club142601056"
         }
     ], 
-    "updated_time": "2017-05-26T18:34:00.802001"
+    "updated_time": "2017-05-26T19:00:09.052669"
 }
