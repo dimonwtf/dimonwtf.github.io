@@ -2,9 +2,9 @@
     "stats_total": {
         "total_cities": 197, 
         "attending": 115333, 
-        "invited": 31279, 
+        "invited": 31278, 
         "total_cities_without_stats": 28, 
-        "maybe": 54406
+        "maybe": 54407
     }, 
     "stats_by_city": {
         "\u0418\u0432\u0430\u043d\u043e\u0432\u043e": {
@@ -1733,7 +1733,7 @@
                 "vk.com/navalnyvolgodonsk": {
                     "attending": 71, 
                     "invited": 4, 
-                    "maybe": 24
+                    "maybe": 25
                 }
             }
         }, 
@@ -2239,7 +2239,7 @@
             "counters": {
                 "vk.com/dimon_vrnzh": {
                     "attending": 2400, 
-                    "invited": 979, 
+                    "invited": 978, 
                     "maybe": 1300
                 }
             }
@@ -2680,5 +2680,5 @@
             "url": "vk.com/club142601056"
         }
     ], 
-    "updated_time": "2017-05-26T20:33:52.078725"
+    "updated_time": "2017-05-26T21:00:09.534568"
 }
