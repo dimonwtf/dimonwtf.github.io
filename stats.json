@@ -2,7 +2,7 @@
     "stats_total": {
         "total_cities": 197, 
         "attending": 116382, 
-        "invited": 31401, 
+        "invited": 31400, 
         "total_cities_without_stats": 27, 
         "maybe": 54741
     }, 
@@ -2233,7 +2233,7 @@
             "counters": {
                 "vk.com/dimon_vrnzh": {
                     "attending": 2400, 
-                    "invited": 981, 
+                    "invited": 980, 
                     "maybe": 1300
                 }
             }
@@ -2670,5 +2670,5 @@
             "url": "vk.com/club142601056"
         }
     ], 
-    "updated_time": "2017-05-28T14:34:06.805122"
+    "updated_time": "2017-05-28T15:00:05.070784"
 }
