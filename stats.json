@@ -1,8 +1,8 @@
 {
     "stats_total": {
         "total_cities": 197, 
-        "attending": 116382, 
-        "invited": 31468, 
+        "attending": 116381, 
+        "invited": 31467, 
         "total_cities_without_stats": 29, 
         "maybe": 54816
     }, 
@@ -2102,7 +2102,7 @@
             ], 
             "counters": {
                 "vk.com/dimon_vld": {
-                    "attending": 868, 
+                    "attending": 867, 
                     "invited": 231, 
                     "maybe": 500
                 }
@@ -2233,7 +2233,7 @@
             "counters": {
                 "vk.com/dimon_vrnzh": {
                     "attending": 2400, 
-                    "invited": 994, 
+                    "invited": 993, 
                     "maybe": 1300
                 }
             }
@@ -2678,5 +2678,5 @@
             "url": "vk.com/club142601056"
         }
     ], 
-    "updated_time": "2017-05-30T05:33:58.987539"
+    "updated_time": "2017-05-30T06:00:05.377757"
 }
