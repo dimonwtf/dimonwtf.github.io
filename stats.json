@@ -1,7 +1,7 @@
 {
     "stats_total": {
         "total_cities": 197, 
-        "attending": 124521, 
+        "attending": 124522, 
         "invited": 34268, 
         "total_cities_without_stats": 29, 
         "maybe": 58093
@@ -1719,7 +1719,7 @@
             ], 
             "counters": {
                 "vk.com/navalnyvolgodonsk": {
-                    "attending": 95, 
+                    "attending": 96, 
                     "invited": 27, 
                     "maybe": 42
                 }
@@ -2672,5 +2672,5 @@
             "url": "vk.com/club142601056"
         }
     ], 
-    "updated_time": "2017-06-03T15:34:00.469942"
+    "updated_time": "2017-06-03T16:00:05.095866"
 }
