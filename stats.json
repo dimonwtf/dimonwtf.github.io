@@ -1,10 +1,10 @@
 {
     "stats_total": {
         "total_cities": 197, 
-        "attending": 125327, 
-        "invited": 34451, 
+        "attending": 125330, 
+        "invited": 34443, 
         "total_cities_without_stats": 29, 
-        "maybe": 58510
+        "maybe": 58508
     }, 
     "stats_by_city": {
         "\u0418\u0432\u0430\u043d\u043e\u0432\u043e": {
@@ -107,7 +107,7 @@
                 "vk.com/dimon_vdk": {
                     "attending": 1800, 
                     "invited": 477, 
-                    "maybe": 883
+                    "maybe": 882
                 }
             }
         }, 
@@ -814,9 +814,9 @@
             ], 
             "counters": {
                 "vk.com/meeting_kld": {
-                    "attending": 834, 
+                    "attending": 835, 
                     "invited": 239, 
-                    "maybe": 355
+                    "maybe": 354
                 }
             }
         }, 
@@ -997,7 +997,7 @@
             "counters": {
                 "vk.com/dimon_permb": {
                     "attending": 3400, 
-                    "invited": 874, 
+                    "invited": 873, 
                     "maybe": 1800
                 }
             }
@@ -1141,7 +1141,7 @@
             "counters": {
                 "vk.com/event142596129": {
                     "attending": 1100, 
-                    "invited": 187, 
+                    "invited": 186, 
                     "maybe": 560
                 }
             }
@@ -1194,7 +1194,7 @@
                 "vk.com/dimon_irk38": {
                     "attending": 2200, 
                     "invited": 308, 
-                    "maybe": 973
+                    "maybe": 974
                 }
             }
         }, 
@@ -1244,7 +1244,7 @@
             ], 
             "counters": {
                 "vk.com/newyorkmeeting": {
-                    "attending": 44, 
+                    "attending": 45, 
                     "invited": 0, 
                     "maybe": 12
                 }
@@ -1492,7 +1492,7 @@
             "counters": {
                 "vk.com/dimon_chuv": {
                     "attending": 1300, 
-                    "invited": 274, 
+                    "invited": 273, 
                     "maybe": 787
                 }
             }
@@ -1518,7 +1518,7 @@
             "counters": {
                 "vk.com/miting.nvkz2": {
                     "attending": 1000, 
-                    "invited": 156, 
+                    "invited": 155, 
                     "maybe": 204
                 }
             }
@@ -1681,7 +1681,7 @@
             "counters": {
                 "vk.com/dimon_tagil": {
                     "attending": 722, 
-                    "invited": 171, 
+                    "invited": 170, 
                     "maybe": 419
                 }
             }
@@ -2112,7 +2112,7 @@
                 "vk.com/dimon_khvsk": {
                     "attending": 1200, 
                     "invited": 282, 
-                    "maybe": 648
+                    "maybe": 647
                 }
             }
         }, 
@@ -2150,7 +2150,7 @@
             "counters": {
                 "vk.com/dimon_abk": {
                     "attending": 466, 
-                    "invited": 370, 
+                    "invited": 369, 
                     "maybe": 252
                 }
             }
@@ -2188,7 +2188,7 @@
             ], 
             "counters": {
                 "vk.com/dimon_belovo": {
-                    "attending": 82, 
+                    "attending": 83, 
                     "invited": 7, 
                     "maybe": 44
                 }
@@ -2293,7 +2293,7 @@
             "counters": {
                 "vk.com/dimon_krsk": {
                     "attending": 3300, 
-                    "invited": 694, 
+                    "invited": 692, 
                     "maybe": 1500
                 }
             }
@@ -2660,5 +2660,5 @@
             "url": "vk.com/club142601056"
         }
     ], 
-    "updated_time": "2017-06-05T01:00:07.853313"
+    "updated_time": "2017-06-05T01:34:01.382944"
 }
