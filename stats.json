@@ -1,10 +1,10 @@
 {
     "stats_total": {
         "total_cities": 197, 
-        "attending": 141831, 
+        "attending": 141833, 
         "invited": 40413, 
         "total_cities_without_stats": 34, 
-        "maybe": 66042
+        "maybe": 66043
     }, 
     "stats_by_city": {
         "\u0418\u0432\u0430\u043d\u043e\u0432\u043e": {
@@ -1258,9 +1258,9 @@
             ], 
             "counters": {
                 "vk.com/vorkuta_no_korruption": {
-                    "attending": 124, 
+                    "attending": 126, 
                     "invited": 8, 
-                    "maybe": 35
+                    "maybe": 36
                 }
             }
         }, 
@@ -2668,5 +2668,5 @@
             "url": "vk.com/meetingseoul"
         }
     ], 
-    "updated_time": "2017-06-11T15:34:05.375072"
+    "updated_time": "2017-06-11T16:00:07.048873"
 }
