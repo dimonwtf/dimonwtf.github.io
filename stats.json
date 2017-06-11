@@ -1,7 +1,7 @@
 {
     "stats_total": {
         "total_cities": 197, 
-        "attending": 144803, 
+        "attending": 144805, 
         "invited": 41100, 
         "total_cities_without_stats": 35, 
         "maybe": 67159
@@ -522,7 +522,7 @@
             ], 
             "counters": {
                 "vk.com/navalniy_gusinoozersk": {
-                    "attending": 20, 
+                    "attending": 21, 
                     "invited": 1, 
                     "maybe": 2
                 }
@@ -1258,7 +1258,7 @@
             ], 
             "counters": {
                 "vk.com/vorkuta_no_korruption": {
-                    "attending": 130, 
+                    "attending": 131, 
                     "invited": 8, 
                     "maybe": 37
                 }
@@ -2672,5 +2672,5 @@
             "url": "vk.com/meetingseoul"
         }
     ], 
-    "updated_time": "2017-06-11T20:34:00.690413"
+    "updated_time": "2017-06-11T21:00:05.649045"
 }
