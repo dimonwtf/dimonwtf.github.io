@@ -1,10 +1,10 @@
 {
     "stats_total": {
         "total_cities": 197, 
-        "attending": 903, 
-        "invited": 406, 
-        "total_cities_without_stats": 187, 
-        "maybe": 508
+        "attending": 1084, 
+        "invited": 458, 
+        "total_cities_without_stats": 186, 
+        "maybe": 622
     }, 
     "stats_by_city": {
         "\u0418\u0432\u0430\u043d\u043e\u0432\u043e": {
@@ -1245,9 +1245,9 @@
             ], 
             "counters": {
                 "vk.com/mitingsevsk": {
-                    "attending": 0, 
-                    "invited": 0, 
-                    "maybe": 0
+                    "attending": 181, 
+                    "invited": 52, 
+                    "maybe": 115
                 }
             }
         }, 
@@ -1846,7 +1846,7 @@
                 "vk.com/navalny_cherepovec": {
                     "attending": 862, 
                     "invited": 388, 
-                    "maybe": 484
+                    "maybe": 483
                 }
             }
         }, 
@@ -2900,10 +2900,6 @@
             "url": "vk.com/newyorkmeeting"
         }, 
         {
-            "city_name": "\u0421\u0435\u0432\u0435\u0440\u043e\u0434\u0432\u0438\u043d\u0441\u043a", 
-            "url": "vk.com/mitingsevsk"
-        }, 
-        {
             "city_name": "\u0412\u043e\u0440\u043a\u0443\u0442\u0430", 
             "url": "vk.com/vorkuta_no_korruption"
         }, 
@@ -3280,5 +3276,5 @@
             "url": "vk.com/justiceinnor"
         }
     ], 
-    "updated_time": "2017-06-12T23:00:06.757692"
+    "updated_time": "2017-06-12T23:34:01.686866"
 }
