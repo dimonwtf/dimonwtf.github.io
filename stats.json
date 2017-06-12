@@ -1,10 +1,10 @@
 {
     "stats_total": {
         "total_cities": 197, 
-        "attending": 1963, 
-        "invited": 689, 
-        "total_cities_without_stats": 183, 
-        "maybe": 999
+        "attending": 1905, 
+        "invited": 670, 
+        "total_cities_without_stats": 184, 
+        "maybe": 961
     }, 
     "stats_by_city": {
         "\u0418\u0432\u0430\u043d\u043e\u0432\u043e": {
@@ -1375,9 +1375,9 @@
             ], 
             "counters": {
                 "vk.com/tallinn_dimon": {
-                    "attending": 56, 
-                    "invited": 18, 
-                    "maybe": 35
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
                 }
             }
         }, 
@@ -1577,9 +1577,9 @@
             ], 
             "counters": {
                 "vk.com/russiaprotivcorrupcii": {
-                    "attending": 432, 
+                    "attending": 429, 
                     "invited": 86, 
-                    "maybe": 196
+                    "maybe": 195
                 }
             }
         }, 
@@ -1844,8 +1844,8 @@
             ], 
             "counters": {
                 "vk.com/navalny_cherepovec": {
-                    "attending": 862, 
-                    "invited": 391, 
+                    "attending": 861, 
+                    "invited": 390, 
                     "maybe": 484
                 }
             }
@@ -1857,9 +1857,9 @@
             ], 
             "counters": {
                 "vk.com/68nedimon": {
-                    "attending": 518, 
+                    "attending": 520, 
                     "invited": 147, 
-                    "maybe": 237
+                    "maybe": 235
                 }
             }
         }, 
@@ -2940,6 +2940,10 @@
             "url": "vk.com/meeting1206"
         }, 
         {
+            "city_name": "\u0422\u0430\u043b\u043b\u0438\u043d", 
+            "url": "vk.com/tallinn_dimon"
+        }, 
+        {
             "city_name": "\u041a\u0440\u0430\u0441\u043d\u043e\u0442\u0443\u0440\u044c\u0438\u043d\u0441\u043a", 
             "url": "vk.com/krasnoturinsk_meeting"
         }, 
@@ -3264,5 +3268,5 @@
             "url": "vk.com/justiceinnor"
         }
     ], 
-    "updated_time": "2017-06-12T18:00:06.262464"
+    "updated_time": "2017-06-12T18:33:57.496478"
 }
