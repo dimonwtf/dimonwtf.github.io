@@ -1,10 +1,10 @@
 {
     "stats_total": {
         "total_cities": 197, 
-        "attending": 1905, 
-        "invited": 670, 
-        "total_cities_without_stats": 184, 
-        "maybe": 961
+        "attending": 958, 
+        "invited": 437, 
+        "total_cities_without_stats": 186, 
+        "maybe": 531
     }, 
     "stats_by_city": {
         "\u0418\u0432\u0430\u043d\u043e\u0432\u043e": {
@@ -1401,7 +1401,7 @@
             ], 
             "counters": {
                 "vk.com/event146885380": {
-                    "attending": 54, 
+                    "attending": 56, 
                     "invited": 29, 
                     "maybe": 23
                 }
@@ -1577,9 +1577,9 @@
             ], 
             "counters": {
                 "vk.com/russiaprotivcorrupcii": {
-                    "attending": 429, 
-                    "invited": 86, 
-                    "maybe": 195
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
                 }
             }
         }, 
@@ -1857,9 +1857,9 @@
             ], 
             "counters": {
                 "vk.com/68nedimon": {
-                    "attending": 520, 
-                    "invited": 147, 
-                    "maybe": 235
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
                 }
             }
         }, 
@@ -2992,6 +2992,10 @@
             "url": "vk.com/dimon_rubtsovsk"
         }, 
         {
+            "city_name": "\u041d\u0438\u0436\u043d\u0435\u0432\u0430\u0440\u0442\u043e\u0432\u0441\u043a", 
+            "url": "vk.com/russiaprotivcorrupcii"
+        }, 
+        {
             "city_name": "\u041c\u0435\u0433\u0438\u043e\u043d", 
             "url": "vk.com/dimon_megion"
         }, 
@@ -3066,6 +3070,10 @@
         {
             "city_name": "\u0410\u043b\u0435\u043a\u0441\u0435\u0435\u0432\u043a\u0430", 
             "url": "vk.com/dimon_alexeevka"
+        }, 
+        {
+            "city_name": "\u0422\u0430\u043c\u0431\u043e\u0432", 
+            "url": "vk.com/68nedimon"
         }, 
         {
             "city_name": "\u0410\u043b\u044c\u043c\u0435\u0442\u044c\u0435\u0432\u0441\u043a", 
@@ -3268,5 +3276,5 @@
             "url": "vk.com/justiceinnor"
         }
     ], 
-    "updated_time": "2017-06-12T19:00:06.705118"
+    "updated_time": "2017-06-12T19:34:01.978816"
 }
