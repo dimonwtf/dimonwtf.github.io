@@ -1,7 +1,7 @@
 {
     "stats_total": {
         "total_cities": 197, 
-        "attending": 133207, 
+        "attending": 133208, 
         "invited": 38440, 
         "total_cities_without_stats": 56, 
         "maybe": 61774
@@ -1818,7 +1818,7 @@
             ], 
             "counters": {
                 "vk.com/dimon_vtk": {
-                    "attending": 165, 
+                    "attending": 166, 
                     "invited": 25, 
                     "maybe": 95
                 }
@@ -2756,5 +2756,5 @@
             "url": "vk.com/meetingseoul"
         }
     ], 
-    "updated_time": "2017-06-12T08:33:57.857566"
+    "updated_time": "2017-06-12T09:00:04.921944"
 }
