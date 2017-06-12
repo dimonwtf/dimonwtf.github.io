@@ -1,10 +1,10 @@
 {
     "stats_total": {
         "total_cities": 197, 
-        "attending": 958, 
-        "invited": 437, 
-        "total_cities_without_stats": 186, 
-        "maybe": 531
+        "attending": 903, 
+        "invited": 407, 
+        "total_cities_without_stats": 187, 
+        "maybe": 508
     }, 
     "stats_by_city": {
         "\u0418\u0432\u0430\u043d\u043e\u0432\u043e": {
@@ -1401,9 +1401,9 @@
             ], 
             "counters": {
                 "vk.com/event146885380": {
-                    "attending": 56, 
-                    "invited": 29, 
-                    "maybe": 23
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
                 }
             }
         }, 
@@ -1844,8 +1844,8 @@
             ], 
             "counters": {
                 "vk.com/navalny_cherepovec": {
-                    "attending": 861, 
-                    "invited": 390, 
+                    "attending": 862, 
+                    "invited": 389, 
                     "maybe": 484
                 }
             }
@@ -2948,6 +2948,10 @@
             "url": "vk.com/krasnoturinsk_meeting"
         }, 
         {
+            "city_name": "\u041e\u043b\u0435\u043d\u0435\u0433\u043e\u0440\u0441\u043a", 
+            "url": "vk.com/event146885380"
+        }, 
+        {
             "city_name": "\u041e\u0440\u0435\u0445\u043e\u0432\u043e-\u0417\u0443\u0435\u0432\u043e", 
             "url": "vk.com/club146833337"
         }, 
@@ -3276,5 +3280,5 @@
             "url": "vk.com/justiceinnor"
         }
     ], 
-    "updated_time": "2017-06-12T20:00:06.624165"
+    "updated_time": "2017-06-12T20:34:01.699461"
 }
