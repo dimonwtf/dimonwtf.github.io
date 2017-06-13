@@ -1,10 +1,10 @@
 {
     "stats_total": {
         "total_cities": 197, 
-        "attending": 1206, 
-        "invited": 680, 
-        "total_cities_without_stats": 186, 
-        "maybe": 748
+        "attending": 2406, 
+        "invited": 830, 
+        "total_cities_without_stats": 185, 
+        "maybe": 1040
     }, 
     "stats_by_city": {
         "\u0418\u0432\u0430\u043d\u043e\u0432\u043e": {
@@ -1245,8 +1245,8 @@
             ], 
             "counters": {
                 "vk.com/mitingsevsk": {
-                    "attending": 182, 
-                    "invited": 51, 
+                    "attending": 181, 
+                    "invited": 50, 
                     "maybe": 113
                 }
             }
@@ -1505,9 +1505,9 @@
             ], 
             "counters": {
                 "vk.com/miting.nvkz2": {
-                    "attending": 0, 
-                    "invited": 0, 
-                    "maybe": 0
+                    "attending": 1200, 
+                    "invited": 154, 
+                    "maybe": 291
                 }
             }
         }, 
@@ -1831,9 +1831,9 @@
             ], 
             "counters": {
                 "vk.com/dimon_alexeevka": {
-                    "attending": 165, 
-                    "invited": 247, 
-                    "maybe": 151
+                    "attending": 167, 
+                    "invited": 244, 
+                    "maybe": 152
                 }
             }
         }, 
@@ -1844,7 +1844,7 @@
             ], 
             "counters": {
                 "vk.com/navalny_cherepovec": {
-                    "attending": 859, 
+                    "attending": 858, 
                     "invited": 382, 
                     "maybe": 484
                 }
@@ -2976,10 +2976,6 @@
             "url": "vk.com/dimon_uln"
         }, 
         {
-            "city_name": "\u041d\u043e\u0432\u043e\u043a\u0443\u0437\u043d\u0435\u0446\u043a", 
-            "url": "vk.com/miting.nvkz2"
-        }, 
-        {
             "city_name": "\u0410\u043b\u043c\u0430\u0442\u044b", 
             "url": "vk.com/korruptsiinet"
         }, 
@@ -3276,5 +3272,5 @@
             "url": "vk.com/justiceinnor"
         }
     ], 
-    "updated_time": "2017-06-13T16:00:06.846077"
+    "updated_time": "2017-06-13T16:33:59.890862"
 }
