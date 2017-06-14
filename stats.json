@@ -1,10 +1,10 @@
 {
     "stats_total": {
         "total_cities": 197, 
-        "attending": 2405, 
-        "invited": 814, 
-        "total_cities_without_stats": 184, 
-        "maybe": 1043
+        "attending": 5956, 
+        "invited": 1331, 
+        "total_cities_without_stats": 182, 
+        "maybe": 2626
     }, 
     "stats_by_city": {
         "\u0418\u0432\u0430\u043d\u043e\u0432\u043e": {
@@ -157,9 +157,9 @@
             ], 
             "counters": {
                 "vk.com/omsk_trebuet_otvet": {
-                    "attending": 0, 
-                    "invited": 0, 
-                    "maybe": 0
+                    "attending": 3400, 
+                    "invited": 435, 
+                    "maybe": 1500
                 }
             }
         }, 
@@ -561,9 +561,9 @@
             ], 
             "counters": {
                 "vk.com/dimon_sarapul": {
-                    "attending": 0, 
-                    "invited": 0, 
-                    "maybe": 0
+                    "attending": 150, 
+                    "invited": 84, 
+                    "maybe": 82
                 }
             }
         }, 
@@ -1239,7 +1239,7 @@
             ], 
             "counters": {
                 "vk.com/mitingsevsk": {
-                    "attending": 181, 
+                    "attending": 182, 
                     "invited": 51, 
                     "maybe": 113
                 }
@@ -1826,8 +1826,8 @@
             "counters": {
                 "vk.com/dimon_alexeevka": {
                     "attending": 168, 
-                    "invited": 229, 
-                    "maybe": 155
+                    "invited": 228, 
+                    "maybe": 156
                 }
             }
         }, 
@@ -1839,7 +1839,7 @@
             "counters": {
                 "vk.com/navalny_cherepovec": {
                     "attending": 856, 
-                    "invited": 381, 
+                    "invited": 380, 
                     "maybe": 482
                 }
             }
@@ -2570,10 +2570,6 @@
             "url": "vk.com/dimon_uhta"
         }, 
         {
-            "city_name": "\u041e\u043c\u0441\u043a", 
-            "url": "vk.com/omsk_trebuet_otvet"
-        }, 
-        {
             "city_name": "\u0418\u0436\u0435\u0432\u0441\u043a", 
             "url": "vk.com/izh_12062017"
         }, 
@@ -2688,10 +2684,6 @@
         {
             "city_name": "\u0413\u043e\u0440\u043d\u043e-\u0410\u043b\u0442\u0430\u0439\u0441\u043a", 
             "url": "vk.com/dimon_gorny"
-        }, 
-        {
-            "city_name": "\u0421\u0430\u0440\u0430\u043f\u0443\u043b", 
-            "url": "vk.com/dimon_sarapul"
         }, 
         {
             "city_name": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433", 
@@ -3262,5 +3254,5 @@
             "url": "vk.com/justiceinnor"
         }
     ], 
-    "updated_time": "2017-06-14T08:00:05.423794"
+    "updated_time": "2017-06-14T08:34:05.963068"
 }
