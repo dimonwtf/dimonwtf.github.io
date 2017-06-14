@@ -1,8 +1,8 @@
 {
     "stats_total": {
         "total_cities": 197, 
-        "attending": 5957, 
-        "invited": 1314, 
+        "attending": 5958, 
+        "invited": 1311, 
         "total_cities_without_stats": 182, 
         "maybe": 2622
     }, 
@@ -561,8 +561,8 @@
             ], 
             "counters": {
                 "vk.com/dimon_sarapul": {
-                    "attending": 150, 
-                    "invited": 84, 
+                    "attending": 151, 
+                    "invited": 83, 
                     "maybe": 80
                 }
             }
@@ -1826,7 +1826,7 @@
             "counters": {
                 "vk.com/dimon_alexeevka": {
                     "attending": 169, 
-                    "invited": 223, 
+                    "invited": 222, 
                     "maybe": 159
                 }
             }
@@ -1839,7 +1839,7 @@
             "counters": {
                 "vk.com/navalny_cherepovec": {
                     "attending": 855, 
-                    "invited": 378, 
+                    "invited": 377, 
                     "maybe": 482
                 }
             }
@@ -3254,5 +3254,5 @@
             "url": "vk.com/justiceinnor"
         }
     ], 
-    "updated_time": "2017-06-14T17:00:05.470632"
+    "updated_time": "2017-06-14T17:34:01.441138"
 }
