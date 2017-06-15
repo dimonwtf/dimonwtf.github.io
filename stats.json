@@ -1,10 +1,10 @@
 {
     "stats_total": {
         "total_cities": 197, 
-        "attending": 7757, 
-        "invited": 1628, 
+        "attending": 7755, 
+        "invited": 1626, 
         "total_cities_without_stats": 180, 
-        "maybe": 3625
+        "maybe": 3627
     }, 
     "stats_by_city": {
         "\u0418\u0432\u0430\u043d\u043e\u0432\u043e": {
@@ -131,9 +131,9 @@
             ], 
             "counters": {
                 "vk.com/nedimonorel": {
-                    "attending": 799, 
-                    "invited": 108, 
-                    "maybe": 427
+                    "attending": 797, 
+                    "invited": 109, 
+                    "maybe": 428
                 }
             }
         }, 
@@ -1240,7 +1240,7 @@
             "counters": {
                 "vk.com/mitingsevsk": {
                     "attending": 181, 
-                    "invited": 48, 
+                    "invited": 47, 
                     "maybe": 115
                 }
             }
@@ -1500,7 +1500,7 @@
             "counters": {
                 "vk.com/miting.nvkz2": {
                     "attending": 1200, 
-                    "invited": 150, 
+                    "invited": 149, 
                     "maybe": 287
                 }
             }
@@ -1826,7 +1826,7 @@
             "counters": {
                 "vk.com/dimon_alexeevka": {
                     "attending": 171, 
-                    "invited": 216, 
+                    "invited": 215, 
                     "maybe": 158
                 }
             }
@@ -2068,7 +2068,7 @@
                 "vk.com/dimon_vld": {
                     "attending": 1000, 
                     "invited": 221, 
-                    "maybe": 575
+                    "maybe": 576
                 }
             }
         }, 
@@ -3246,5 +3246,5 @@
             "url": "vk.com/justiceinnor"
         }
     ], 
-    "updated_time": "2017-06-15T08:00:05.576249"
+    "updated_time": "2017-06-15T08:34:05.477627"
 }
