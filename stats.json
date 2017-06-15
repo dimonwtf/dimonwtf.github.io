@@ -1,10 +1,10 @@
 {
     "stats_total": {
         "total_cities": 197, 
-        "attending": 6956, 
-        "invited": 1522, 
-        "total_cities_without_stats": 181, 
-        "maybe": 3199
+        "attending": 7756, 
+        "invited": 1629, 
+        "total_cities_without_stats": 180, 
+        "maybe": 3628
     }, 
     "stats_by_city": {
         "\u0418\u0432\u0430\u043d\u043e\u0432\u043e": {
@@ -131,9 +131,9 @@
             ], 
             "counters": {
                 "vk.com/nedimonorel": {
-                    "attending": 0, 
-                    "invited": 0, 
-                    "maybe": 0
+                    "attending": 800, 
+                    "invited": 107, 
+                    "maybe": 429
                 }
             }
         }, 
@@ -2562,10 +2562,6 @@
             "url": "vk.com/dimon_bashkiria"
         }, 
         {
-            "city_name": "\u041e\u0440\u0451\u043b", 
-            "url": "vk.com/nedimonorel"
-        }, 
-        {
             "city_name": "\u0423\u0445\u0442\u0430", 
             "url": "vk.com/dimon_uhta"
         }, 
@@ -3250,5 +3246,5 @@
             "url": "vk.com/justiceinnor"
         }
     ], 
-    "updated_time": "2017-06-15T06:00:05.127531"
+    "updated_time": "2017-06-15T06:34:06.434590"
 }
