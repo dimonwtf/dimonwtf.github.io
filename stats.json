@@ -2,9 +2,9 @@
     "stats_total": {
         "total_cities": 197, 
         "attending": 7747, 
-        "invited": 1649, 
+        "invited": 1646, 
         "total_cities_without_stats": 180, 
-        "maybe": 3621
+        "maybe": 3619
     }, 
     "stats_by_city": {
         "\u0418\u0432\u0430\u043d\u043e\u0432\u043e": {
@@ -133,7 +133,7 @@
                 "vk.com/nedimonorel": {
                     "attending": 793, 
                     "invited": 107, 
-                    "maybe": 427
+                    "maybe": 428
                 }
             }
         }, 
@@ -158,7 +158,7 @@
             "counters": {
                 "vk.com/omsk_trebuet_otvet": {
                     "attending": 3400, 
-                    "invited": 437, 
+                    "invited": 435, 
                     "maybe": 1500
                 }
             }
@@ -1241,7 +1241,7 @@
                 "vk.com/mitingsevsk": {
                     "attending": 181, 
                     "invited": 47, 
-                    "maybe": 114
+                    "maybe": 113
                 }
             }
         }, 
@@ -1501,7 +1501,7 @@
                 "vk.com/miting.nvkz2": {
                     "attending": 1200, 
                     "invited": 147, 
-                    "maybe": 284
+                    "maybe": 283
                 }
             }
         }, 
@@ -1825,9 +1825,9 @@
             ], 
             "counters": {
                 "vk.com/dimon_alexeevka": {
-                    "attending": 172, 
-                    "invited": 235, 
-                    "maybe": 161
+                    "attending": 173, 
+                    "invited": 234, 
+                    "maybe": 160
                 }
             }
         }, 
@@ -1838,7 +1838,7 @@
             ], 
             "counters": {
                 "vk.com/navalny_cherepovec": {
-                    "attending": 852, 
+                    "attending": 851, 
                     "invited": 373, 
                     "maybe": 482
                 }
@@ -3246,5 +3246,5 @@
             "url": "vk.com/justiceinnor"
         }
     ], 
-    "updated_time": "2017-06-16T13:00:05.372713"
+    "updated_time": "2017-06-16T13:33:59.977255"
 }
