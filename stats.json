@@ -1,10 +1,10 @@
 {
     "stats_total": {
         "total_cities": 197, 
-        "attending": 7749, 
-        "invited": 1643, 
-        "total_cities_without_stats": 180, 
-        "maybe": 3618
+        "attending": 8285, 
+        "invited": 1675, 
+        "total_cities_without_stats": 179, 
+        "maybe": 3902
     }, 
     "stats_by_city": {
         "\u0418\u0432\u0430\u043d\u043e\u0432\u043e": {
@@ -158,7 +158,7 @@
             "counters": {
                 "vk.com/omsk_trebuet_otvet": {
                     "attending": 3400, 
-                    "invited": 434, 
+                    "invited": 433, 
                     "maybe": 1500
                 }
             }
@@ -196,9 +196,9 @@
             ], 
             "counters": {
                 "vk.com/dimon_psk": {
-                    "attending": 0, 
-                    "invited": 0, 
-                    "maybe": 0
+                    "attending": 536, 
+                    "invited": 34, 
+                    "maybe": 284
                 }
             }
         }, 
@@ -1826,8 +1826,8 @@
             "counters": {
                 "vk.com/dimon_alexeevka": {
                     "attending": 173, 
-                    "invited": 232, 
-                    "maybe": 161
+                    "invited": 231, 
+                    "maybe": 162
                 }
             }
         }, 
@@ -2068,7 +2068,7 @@
                 "vk.com/dimon_vld": {
                     "attending": 1000, 
                     "invited": 221, 
-                    "maybe": 572
+                    "maybe": 571
                 }
             }
         }, 
@@ -2572,10 +2572,6 @@
         {
             "city_name": "\u041f\u043e\u043a\u0430\u0447\u0438", 
             "url": "vk.com/dimon_pokachi"
-        }, 
-        {
-            "city_name": "\u041f\u0441\u043a\u043e\u0432", 
-            "url": "vk.com/dimon_psk"
         }, 
         {
             "city_name": "\u041f\u043e\u043b\u044f\u0440\u043d\u044b\u0435 \u0417\u043e\u0440\u0438", 
@@ -3246,5 +3242,5 @@
             "url": "vk.com/justiceinnor"
         }
     ], 
-    "updated_time": "2017-06-16T17:00:04.953737"
+    "updated_time": "2017-06-16T17:34:01.503937"
 }
