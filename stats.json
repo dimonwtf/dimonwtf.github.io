@@ -1,10 +1,10 @@
 {
     "stats_total": {
         "total_cities": 197, 
-        "attending": 8276, 
-        "invited": 1663, 
-        "total_cities_without_stats": 179, 
-        "maybe": 3894
+        "attending": 8128, 
+        "invited": 1580, 
+        "total_cities_without_stats": 180, 
+        "maybe": 3812
     }, 
     "stats_by_city": {
         "\u0418\u0432\u0430\u043d\u043e\u0432\u043e": {
@@ -132,7 +132,7 @@
             "counters": {
                 "vk.com/nedimonorel": {
                     "attending": 795, 
-                    "invited": 106, 
+                    "invited": 105, 
                     "maybe": 424
                 }
             }
@@ -561,9 +561,9 @@
             ], 
             "counters": {
                 "vk.com/dimon_sarapul": {
-                    "attending": 149, 
-                    "invited": 82, 
-                    "maybe": 81
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
                 }
             }
         }, 
@@ -1239,7 +1239,7 @@
             ], 
             "counters": {
                 "vk.com/mitingsevsk": {
-                    "attending": 180, 
+                    "attending": 181, 
                     "invited": 47, 
                     "maybe": 112
                 }
@@ -1501,7 +1501,7 @@
                 "vk.com/miting.nvkz2": {
                     "attending": 1200, 
                     "invited": 146, 
-                    "maybe": 279
+                    "maybe": 278
                 }
             }
         }, 
@@ -2678,6 +2678,10 @@
             "url": "vk.com/dimon_gorny"
         }, 
         {
+            "city_name": "\u0421\u0430\u0440\u0430\u043f\u0443\u043b", 
+            "url": "vk.com/dimon_sarapul"
+        }, 
+        {
             "city_name": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433", 
             "url": "vk.com/dimon_saintp"
         }, 
@@ -3242,5 +3246,5 @@
             "url": "vk.com/justiceinnor"
         }
     ], 
-    "updated_time": "2017-06-18T16:00:04.891287"
+    "updated_time": "2017-06-18T16:34:03.047259"
 }
