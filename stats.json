@@ -1,10 +1,10 @@
 {
     "stats_total": {
         "total_cities": 197, 
-        "attending": 4717, 
-        "invited": 1164, 
+        "attending": 4925, 
+        "invited": 1153, 
         "total_cities_without_stats": 181, 
-        "maybe": 2303
+        "maybe": 2325
     }, 
     "stats_by_city": {
         "\u0418\u0432\u0430\u043d\u043e\u0432\u043e": {
@@ -131,9 +131,9 @@
             ], 
             "counters": {
                 "vk.com/nedimonorel": {
-                    "attending": 791, 
-                    "invited": 105, 
-                    "maybe": 424
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
                 }
             }
         }, 
@@ -1825,8 +1825,8 @@
             ], 
             "counters": {
                 "vk.com/dimon_alexeevka": {
-                    "attending": 183, 
-                    "invited": 259, 
+                    "attending": 182, 
+                    "invited": 256, 
                     "maybe": 174
                 }
             }
@@ -1840,7 +1840,7 @@
                 "vk.com/navalny_cherepovec": {
                     "attending": 835, 
                     "invited": 363, 
-                    "maybe": 480
+                    "maybe": 479
                 }
             }
         }, 
@@ -2068,7 +2068,7 @@
                 "vk.com/dimon_vld": {
                     "attending": 1000, 
                     "invited": 217, 
-                    "maybe": 562
+                    "maybe": 560
                 }
             }
         }, 
@@ -2157,9 +2157,9 @@
             ], 
             "counters": {
                 "vk.com/kirov12june": {
-                    "attending": 0, 
-                    "invited": 0, 
-                    "maybe": 0
+                    "attending": 1000, 
+                    "invited": 97, 
+                    "maybe": 449
                 }
             }
         }, 
@@ -2560,6 +2560,10 @@
         {
             "city_name": "\u0423\u0444\u0430", 
             "url": "vk.com/dimon_bashkiria"
+        }, 
+        {
+            "city_name": "\u041e\u0440\u0451\u043b", 
+            "url": "vk.com/nedimonorel"
         }, 
         {
             "city_name": "\u0423\u0445\u0442\u0430", 
@@ -3138,10 +3142,6 @@
             "url": "vk.com/dimon_dubnaotvetit"
         }, 
         {
-            "city_name": "\u041a\u0438\u0440\u043e\u0432", 
-            "url": "vk.com/kirov12june"
-        }, 
-        {
             "city_name": "\u0411\u0435\u043b\u043e\u0432\u043e", 
             "url": "vk.com/dimon_belovo"
         }, 
@@ -3250,5 +3250,5 @@
             "url": "vk.com/justiceinnor"
         }
     ], 
-    "updated_time": "2017-06-20T18:00:08.459310"
+    "updated_time": "2017-06-20T18:33:59.215946"
 }
