@@ -2,9 +2,9 @@
     "stats_total": {
         "total_cities": 197, 
         "attending": 4920, 
-        "invited": 1142, 
+        "invited": 1141, 
         "total_cities_without_stats": 181, 
-        "maybe": 2314
+        "maybe": 2315
     }, 
     "stats_by_city": {
         "\u0418\u0432\u0430\u043d\u043e\u0432\u043e": {
@@ -1500,8 +1500,8 @@
             "counters": {
                 "vk.com/miting.nvkz2": {
                     "attending": 1200, 
-                    "invited": 138, 
-                    "maybe": 271
+                    "invited": 137, 
+                    "maybe": 272
                 }
             }
         }, 
@@ -3250,5 +3250,5 @@
             "url": "vk.com/justiceinnor"
         }
     ], 
-    "updated_time": "2017-06-22T13:00:06.947493"
+    "updated_time": "2017-06-22T13:33:58.246433"
 }
