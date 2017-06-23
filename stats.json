@@ -1,9 +1,9 @@
 {
     "stats_total": {
         "total_cities": 197, 
-        "attending": 8321, 
-        "invited": 1505, 
-        "total_cities_without_stats": 180, 
+        "attending": 8322, 
+        "invited": 1504, 
+        "total_cities_without_stats": 179, 
         "maybe": 3808
     }, 
     "stats_by_city": {
@@ -1239,8 +1239,8 @@
             ], 
             "counters": {
                 "vk.com/mitingsevsk": {
-                    "attending": 178, 
-                    "invited": 46, 
+                    "attending": 179, 
+                    "invited": 45, 
                     "maybe": 109
                 }
             }
@@ -2402,13 +2402,7 @@
             "links": [
                 "vk.com/dimon_oskol31"
             ], 
-            "counters": {
-                "vk.com/dimon_oskol31": {
-                    "attending": 0, 
-                    "invited": 0, 
-                    "maybe": 0
-                }
-            }
+            "counters": {}
         }, 
         "\u0427\u0443\u0441\u043e\u0432\u043e\u0439": {
             "city_name": "\u0427\u0443\u0441\u043e\u0432\u043e\u0439", 
@@ -3210,10 +3204,6 @@
             "url": "vk.com/dimon_ksl"
         }, 
         {
-            "city_name": "\u0421\u0442\u0430\u0440\u044b\u0439 \u041e\u0441\u043a\u043e\u043b", 
-            "url": "vk.com/dimon_oskol31"
-        }, 
-        {
             "city_name": "\u0427\u0443\u0441\u043e\u0432\u043e\u0439", 
             "url": "vk.com/dimon_chusovoy"
         }, 
@@ -3246,5 +3236,5 @@
             "url": "vk.com/justiceinnor"
         }
     ], 
-    "updated_time": "2017-06-23T23:00:03.676442"
+    "updated_time": "2017-06-23T23:34:00.028208"
 }
