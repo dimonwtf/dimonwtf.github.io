@@ -1,10 +1,10 @@
 {
     "stats_total": {
         "total_cities": 197, 
-        "attending": 4919, 
-        "invited": 1136, 
-        "total_cities_without_stats": 181, 
-        "maybe": 2312
+        "attending": 8319, 
+        "invited": 1498, 
+        "total_cities_without_stats": 180, 
+        "maybe": 3812
     }, 
     "stats_by_city": {
         "\u0418\u0432\u0430\u043d\u043e\u0432\u043e": {
@@ -157,9 +157,9 @@
             ], 
             "counters": {
                 "vk.com/omsk_trebuet_otvet": {
-                    "attending": 0, 
-                    "invited": 0, 
-                    "maybe": 0
+                    "attending": 3400, 
+                    "invited": 362, 
+                    "maybe": 1500
                 }
             }
         }, 
@@ -2570,10 +2570,6 @@
             "url": "vk.com/dimon_uhta"
         }, 
         {
-            "city_name": "\u041e\u043c\u0441\u043a", 
-            "url": "vk.com/omsk_trebuet_otvet"
-        }, 
-        {
             "city_name": "\u0418\u0436\u0435\u0432\u0441\u043a", 
             "url": "vk.com/izh_12062017"
         }, 
@@ -3250,5 +3246,5 @@
             "url": "vk.com/justiceinnor"
         }
     ], 
-    "updated_time": "2017-06-23T09:00:09.131690"
+    "updated_time": "2017-06-23T09:33:59.420278"
 }
