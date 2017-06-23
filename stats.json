@@ -2,9 +2,9 @@
     "stats_total": {
         "total_cities": 197, 
         "attending": 4918, 
-        "invited": 1138, 
+        "invited": 1137, 
         "total_cities_without_stats": 181, 
-        "maybe": 2312
+        "maybe": 2313
     }, 
     "stats_by_city": {
         "\u0418\u0432\u0430\u043d\u043e\u0432\u043e": {
@@ -1839,8 +1839,8 @@
             "counters": {
                 "vk.com/navalny_cherepovec": {
                     "attending": 832, 
-                    "invited": 358, 
-                    "maybe": 475
+                    "invited": 357, 
+                    "maybe": 476
                 }
             }
         }, 
@@ -3250,5 +3250,5 @@
             "url": "vk.com/justiceinnor"
         }
     ], 
-    "updated_time": "2017-06-23T06:00:11.285160"
+    "updated_time": "2017-06-23T06:33:58.538353"
 }
