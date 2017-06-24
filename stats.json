@@ -1,8 +1,8 @@
 {
     "stats_total": {
         "total_cities": 197, 
-        "attending": 8322, 
-        "invited": 1500, 
+        "attending": 8320, 
+        "invited": 1497, 
         "total_cities_without_stats": 180, 
         "maybe": 3808
     }, 
@@ -196,7 +196,7 @@
             ], 
             "counters": {
                 "vk.com/dimon_psk": {
-                    "attending": 524, 
+                    "attending": 523, 
                     "invited": 34, 
                     "maybe": 277
                 }
@@ -1241,7 +1241,7 @@
                 "vk.com/mitingsevsk": {
                     "attending": 179, 
                     "invited": 45, 
-                    "maybe": 109
+                    "maybe": 108
                 }
             }
         }, 
@@ -1500,7 +1500,7 @@
             "counters": {
                 "vk.com/miting.nvkz2": {
                     "attending": 1200, 
-                    "invited": 133, 
+                    "invited": 132, 
                     "maybe": 270
                 }
             }
@@ -1826,8 +1826,8 @@
             "counters": {
                 "vk.com/dimon_alexeevka": {
                     "attending": 186, 
-                    "invited": 260, 
-                    "maybe": 179
+                    "invited": 259, 
+                    "maybe": 180
                 }
             }
         }, 
@@ -1838,7 +1838,7 @@
             ], 
             "counters": {
                 "vk.com/navalny_cherepovec": {
-                    "attending": 833, 
+                    "attending": 832, 
                     "invited": 357, 
                     "maybe": 473
                 }
@@ -2158,7 +2158,7 @@
             "counters": {
                 "vk.com/kirov12june": {
                     "attending": 1000, 
-                    "invited": 97, 
+                    "invited": 96, 
                     "maybe": 444
                 }
             }
@@ -3246,5 +3246,5 @@
             "url": "vk.com/justiceinnor"
         }
     ], 
-    "updated_time": "2017-06-24T06:00:03.759221"
+    "updated_time": "2017-06-24T06:34:11.132201"
 }
