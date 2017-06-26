@@ -1,10 +1,10 @@
 {
     "stats_total": {
         "total_cities": 197, 
-        "attending": 8218, 
-        "invited": 1488, 
-        "total_cities_without_stats": 180, 
-        "maybe": 3795
+        "attending": 8298, 
+        "invited": 1492, 
+        "total_cities_without_stats": 179, 
+        "maybe": 3838
     }, 
     "stats_by_city": {
         "\u0418\u0432\u0430\u043d\u043e\u0432\u043e": {
@@ -196,7 +196,7 @@
             ], 
             "counters": {
                 "vk.com/dimon_psk": {
-                    "attending": 523, 
+                    "attending": 522, 
                     "invited": 34, 
                     "maybe": 275
                 }
@@ -365,9 +365,9 @@
             ], 
             "counters": {
                 "vk.com/dimon1206yeysk": {
-                    "attending": 0, 
-                    "invited": 0, 
-                    "maybe": 0
+                    "attending": 80, 
+                    "invited": 5, 
+                    "maybe": 44
                 }
             }
         }, 
@@ -1501,7 +1501,7 @@
                 "vk.com/miting.nvkz2": {
                     "attending": 1200, 
                     "invited": 131, 
-                    "maybe": 269
+                    "maybe": 268
                 }
             }
         }, 
@@ -1838,8 +1838,8 @@
             ], 
             "counters": {
                 "vk.com/navalny_cherepovec": {
-                    "attending": 829, 
-                    "invited": 355, 
+                    "attending": 830, 
+                    "invited": 354, 
                     "maybe": 470
                 }
             }
@@ -2626,10 +2626,6 @@
             "url": "vk.com/dimon_pyatigorsk"
         }, 
         {
-            "city_name": "\u0415\u0439\u0441\u043a", 
-            "url": "vk.com/dimon1206yeysk"
-        }, 
-        {
             "city_name": "\u0411\u0440\u044f\u043d\u0441\u043a", 
             "url": "vk.com/event145812353"
         }, 
@@ -3246,5 +3242,5 @@
             "url": "vk.com/justiceinnor"
         }
     ], 
-    "updated_time": "2017-06-26T17:00:06.458365"
+    "updated_time": "2017-06-26T17:34:01.665650"
 }
