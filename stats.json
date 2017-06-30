@@ -1,10 +1,10 @@
 {
     "stats_total": {
         "total_cities": 197, 
-        "attending": 8331, 
-        "invited": 1552, 
+        "attending": 8335, 
+        "invited": 1546, 
         "total_cities_without_stats": 178, 
-        "maybe": 3832
+        "maybe": 3834
     }, 
     "stats_by_city": {
         "\u0418\u0432\u0430\u043d\u043e\u0432\u043e": {
@@ -158,7 +158,7 @@
             "counters": {
                 "vk.com/omsk_trebuet_otvet": {
                     "attending": 3300, 
-                    "invited": 387, 
+                    "invited": 386, 
                     "maybe": 1500
                 }
             }
@@ -1825,9 +1825,9 @@
             ], 
             "counters": {
                 "vk.com/dimon_alexeevka": {
-                    "attending": 203, 
-                    "invited": 301, 
-                    "maybe": 180
+                    "attending": 207, 
+                    "invited": 296, 
+                    "maybe": 182
                 }
             }
         }, 
@@ -3238,5 +3238,5 @@
             "url": "vk.com/justiceinnor"
         }
     ], 
-    "updated_time": "2017-06-30T11:00:10.680047"
+    "updated_time": "2017-06-30T11:34:01.386206"
 }
