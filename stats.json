@@ -3,7 +3,7 @@
         "total_cities": 197, 
         "attending": 8163, 
         "invited": 1235, 
-        "total_cities_without_stats": 177, 
+        "total_cities_without_stats": 176, 
         "maybe": 3547
     }, 
     "stats_by_city": {
@@ -1764,13 +1764,7 @@
             "links": [
                 "vk.com/dimon_zeya"
             ], 
-            "counters": {
-                "vk.com/dimon_zeya": {
-                    "attending": 0, 
-                    "invited": 0, 
-                    "maybe": 0
-                }
-            }
+            "counters": {}
         }, 
         "\u0412\u043b\u0430\u0434\u0438\u043a\u0430\u0432\u043a\u0430\u0437": {
             "city_name": "\u0412\u043b\u0430\u0434\u0438\u043a\u0430\u0432\u043a\u0430\u0437", 
@@ -3016,10 +3010,6 @@
             "url": "vk.com/dimon_dsn"
         }, 
         {
-            "city_name": "\u0417\u0435\u044f", 
-            "url": "vk.com/dimon_zeya"
-        }, 
-        {
             "city_name": "\u0421\u044b\u043a\u0442\u044b\u0432\u043a\u0430\u0440", 
             "url": "vk.com/sykt_no_korruption"
         }, 
@@ -3228,5 +3218,5 @@
             "url": "vk.com/justiceinnor"
         }
     ], 
-    "updated_time": "2017-07-08T21:00:04.459741"
+    "updated_time": "2017-07-08T21:34:00.862856"
 }
