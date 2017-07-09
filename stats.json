@@ -1,10 +1,10 @@
 {
     "stats_total": {
         "total_cities": 197, 
-        "attending": 9332, 
-        "invited": 1318, 
-        "total_cities_without_stats": 174, 
-        "maybe": 4079
+        "attending": 8775, 
+        "invited": 1279, 
+        "total_cities_without_stats": 175, 
+        "maybe": 3833
     }, 
     "stats_by_city": {
         "\u0418\u0432\u0430\u043d\u043e\u0432\u043e": {
@@ -1501,7 +1501,7 @@
                 "vk.com/miting.nvkz2": {
                     "attending": 1200, 
                     "invited": 120, 
-                    "maybe": 262
+                    "maybe": 261
                 }
             }
         }, 
@@ -1826,7 +1826,7 @@
             ], 
             "counters": {
                 "vk.com/navalny_cherepovec": {
-                    "attending": 819, 
+                    "attending": 818, 
                     "invited": 344, 
                     "maybe": 462
                 }
@@ -2301,9 +2301,9 @@
             ], 
             "counters": {
                 "vk.com/netkopcii": {
-                    "attending": 556, 
-                    "invited": 39, 
-                    "maybe": 245
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
                 }
             }
         }, 
@@ -3150,6 +3150,10 @@
             "url": "vk.com/dimon_vnovgorod"
         }, 
         {
+            "city_name": "\u041a\u0443\u0440\u0433\u0430\u043d", 
+            "url": "vk.com/netkopcii"
+        }, 
+        {
             "city_name": "\u0421\u043c\u043e\u043b\u0435\u043d\u0441\u043a", 
             "url": "vk.com/club143688935"
         }, 
@@ -3210,5 +3214,5 @@
             "url": "vk.com/justiceinnor"
         }
     ], 
-    "updated_time": "2017-07-09T17:00:06.105707"
+    "updated_time": "2017-07-09T17:33:58.126787"
 }
