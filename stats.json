@@ -1,8 +1,8 @@
 {
     "stats_total": {
         "total_cities": 197, 
-        "attending": 9170, 
-        "invited": 1312, 
+        "attending": 9169, 
+        "invited": 1311, 
         "total_cities_without_stats": 174, 
         "maybe": 4043
     }, 
@@ -678,7 +678,7 @@
             ], 
             "counters": {
                 "vk.com/event142585403": {
-                    "attending": 604, 
+                    "attending": 603, 
                     "invited": 44, 
                     "maybe": 283
                 }
@@ -2146,7 +2146,7 @@
             "counters": {
                 "vk.com/kirov12june": {
                     "attending": 1000, 
-                    "invited": 88, 
+                    "invited": 87, 
                     "maybe": 416
                 }
             }
@@ -3210,5 +3210,5 @@
             "url": "vk.com/justiceinnor"
         }
     ], 
-    "updated_time": "2017-07-17T17:00:06.087518"
+    "updated_time": "2017-07-17T17:34:07.858658"
 }
