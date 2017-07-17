@@ -1,7 +1,7 @@
 {
     "stats_total": {
         "total_cities": 197, 
-        "attending": 9176, 
+        "attending": 9174, 
         "invited": 1303, 
         "total_cities_without_stats": 174, 
         "maybe": 4044
@@ -678,7 +678,7 @@
             ], 
             "counters": {
                 "vk.com/event142585403": {
-                    "attending": 605, 
+                    "attending": 604, 
                     "invited": 44, 
                     "maybe": 284
                 }
@@ -1753,7 +1753,7 @@
             ], 
             "counters": {
                 "vk.com/club146256409": {
-                    "attending": 55, 
+                    "attending": 54, 
                     "invited": 17, 
                     "maybe": 30
                 }
@@ -3210,5 +3210,5 @@
             "url": "vk.com/justiceinnor"
         }
     ], 
-    "updated_time": "2017-07-17T08:00:06.646125"
+    "updated_time": "2017-07-17T08:34:02.274489"
 }
