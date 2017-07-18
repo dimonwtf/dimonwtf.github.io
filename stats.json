@@ -1,10 +1,10 @@
 {
     "stats_total": {
         "total_cities": 197, 
-        "attending": 9166, 
-        "invited": 1306, 
-        "total_cities_without_stats": 174, 
-        "maybe": 4041
+        "attending": 10665, 
+        "invited": 8206, 
+        "total_cities_without_stats": 173, 
+        "maybe": 5241
     }, 
     "stats_by_city": {
         "\u0418\u0432\u0430\u043d\u043e\u0432\u043e": {
@@ -678,7 +678,7 @@
             ], 
             "counters": {
                 "vk.com/event142585403": {
-                    "attending": 603, 
+                    "attending": 602, 
                     "invited": 44, 
                     "maybe": 283
                 }
@@ -815,9 +815,9 @@
             ], 
             "counters": {
                 "vk.com/dimon_tver": {
-                    "attending": 0, 
-                    "invited": 0, 
-                    "maybe": 0
+                    "attending": 1500, 
+                    "invited": 6900, 
+                    "maybe": 1200
                 }
             }
         }, 
@@ -2738,10 +2738,6 @@
             "url": "vk.com/meeting_kld"
         }, 
         {
-            "city_name": "\u0422\u0432\u0435\u0440\u044c", 
-            "url": "vk.com/dimon_tver"
-        }, 
-        {
             "city_name": "\u0427\u0435\u043b\u044f\u0431\u0438\u043d\u0441\u043a", 
             "url": "vk.com/dimon_chel"
         }, 
@@ -3210,5 +3206,5 @@
             "url": "vk.com/justiceinnor"
         }
     ], 
-    "updated_time": "2017-07-18T15:00:05.444698"
+    "updated_time": "2017-07-18T15:34:01.910344"
 }
