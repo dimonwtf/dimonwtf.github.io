@@ -1,10 +1,10 @@
 {
     "stats_total": {
         "total_cities": 197, 
-        "attending": 8916, 
+        "attending": 8913, 
         "invited": 8032, 
         "total_cities_without_stats": 175, 
-        "maybe": 4718
+        "maybe": 4717
     }, 
     "stats_by_city": {
         "\u0418\u0432\u0430\u043d\u043e\u0432\u043e": {
@@ -678,7 +678,7 @@
             ], 
             "counters": {
                 "vk.com/event142585403": {
-                    "attending": 601, 
+                    "attending": 599, 
                     "invited": 44, 
                     "maybe": 281
                 }
@@ -1826,7 +1826,7 @@
             ], 
             "counters": {
                 "vk.com/navalny_cherepovec": {
-                    "attending": 801, 
+                    "attending": 800, 
                     "invited": 338, 
                     "maybe": 452
                 }
@@ -2147,7 +2147,7 @@
                 "vk.com/kirov12june": {
                     "attending": 1000, 
                     "invited": 87, 
-                    "maybe": 413
+                    "maybe": 412
                 }
             }
         }, 
@@ -3214,5 +3214,5 @@
             "url": "vk.com/justiceinnor"
         }
     ], 
-    "updated_time": "2017-07-21T17:00:12.683081"
+    "updated_time": "2017-07-21T17:33:55.384982"
 }
