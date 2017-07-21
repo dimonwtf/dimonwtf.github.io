@@ -1,10 +1,10 @@
 {
     "stats_total": {
         "total_cities": 197, 
-        "attending": 10118, 
-        "invited": 8154, 
-        "total_cities_without_stats": 174, 
-        "maybe": 4984
+        "attending": 8918, 
+        "invited": 8032, 
+        "total_cities_without_stats": 175, 
+        "maybe": 4721
     }, 
     "stats_by_city": {
         "\u0418\u0432\u0430\u043d\u043e\u0432\u043e": {
@@ -1499,9 +1499,9 @@
             ], 
             "counters": {
                 "vk.com/miting.nvkz2": {
-                    "attending": 1200, 
-                    "invited": 122, 
-                    "maybe": 263
+                    "attending": 0, 
+                    "invited": 0, 
+                    "maybe": 0
                 }
             }
         }, 
@@ -2930,6 +2930,10 @@
             "url": "vk.com/dimon_uln"
         }, 
         {
+            "city_name": "\u041d\u043e\u0432\u043e\u043a\u0443\u0437\u043d\u0435\u0446\u043a", 
+            "url": "vk.com/miting.nvkz2"
+        }, 
+        {
             "city_name": "\u0410\u043b\u043c\u0430\u0442\u044b", 
             "url": "vk.com/korruptsiinet"
         }, 
@@ -3210,5 +3214,5 @@
             "url": "vk.com/justiceinnor"
         }
     ], 
-    "updated_time": "2017-07-21T07:00:14.370371"
+    "updated_time": "2017-07-21T07:33:48.037807"
 }
